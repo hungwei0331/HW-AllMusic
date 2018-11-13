@@ -2,11 +2,11 @@
     "station":
     [
      {
-     "name": "Acoustic Blues",
-     "streamURL": "http://79.111.14.76:9071/",
-     "imageURL": "station-AcousticBlues",
+     "name": "Indian Classical/Folk/Ethnic",
+     "streamURL": "http://79.111.14.76:8002/indianfolk",
+     "imageURL": "http://radcap.ru/stylegraf/indian1.jpg",
      "desc": "",
-     "longDesc": ""
+     "longDesc": "Indian classical music is one of the oldest complex musical traditions of the world. Its origins are traditionally associated with the Vedas, primarily with the “Sama Veda” (2 thousand BC), dwelling on music in more detail than other Vedas (explaining how to play the hymns of the Rig Veda) and strongly connecting the sources of music with the religious and magical practice of Hinduism. The treatise on theater, music and dance ""Natya-shastra"" (first centuries AD.) Demonstrates that before its creation, Indians had a highly developed musical system. It also captures the important connection between music and dance and drama. Under the influence of Muslim culture in the Middle Ages, the melody performance of author's poetry, which was adapted by Indian culture and became an important part of classical music, became important."
      }
      ]
 }
