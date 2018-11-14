@@ -1,12 +1,126 @@
 {
     "station":
     [
-     {
-     "name": "Indian Classical/Folk/Ethnic",
-     "streamURL": "http://79.111.14.76:8002/indianfolk",
-     "imageURL": "http://radcap.ru/stylegraf/indian1.jpg",
-     "desc": "",
-     "longDesc": "Indian classical music is one of the oldest complex musical traditions of the world. Its origins are traditionally associated with the Vedas, primarily with the “Sama Veda” (2 thousand BC), dwelling on music in more detail than other Vedas (explaining how to play the hymns of the Rig Veda) and strongly connecting the sources of music with the religious and magical practice of Hinduism. The treatise on theater, music and dance ""Natya-shastra"" (first centuries AD.) Demonstrates that before its creation, Indians had a highly developed musical system. It also captures the important connection between music and dance and drama. Under the influence of Muslim culture in the Middle Ages, the melody performance of author's poetry, which was adapted by Indian culture and became an important part of classical music, became important."
-     }
-     ]
+        {
+            "name": "INDIAN CLASSICAL/ FOLK/ ETHNIC",
+            "streamURL": "http://79.111.14.76:8002/indianfolk",
+            "imageURL": "http://radcap.ru/stylegraf/indian1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Indian classical music is one of the oldest complex musical traditions of the world. Its origins are traditionally associated with the Vedas, primarily with the “Sama Veda” (2 thousand BC), dwelling on music in more detail than other Vedas (explaining how to play the hymns of the Rig Veda) and strongly connecting the sources of music with the religious and magical practice of Hinduism. The treatise on theater, music and dance “Natya-shastra”. Demonstrates that before its creation, Indians had a highly developed musical system. It also captures the important connection between music and dance and drama. Under the influence of Muslim culture in the Middle Ages, the melody performance of author's poetry, which was adapted by Indian culture and became an important part of classical music, became important."
+        },
+        {
+            "name": "RUSSIAN FOLK",
+            "streamURL": "http://79.120.77.11:8002/russianfolk",
+            "imageURL": "http://radcap.ru/stylegraf/russian1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Russian folk song is a song whose words and music have developed historically in the course of the development of Russian culture. The folk song does not have a specific author, or the author is unknown. Among the main genres of folk music can be identified calendar ritual songs, wedding, epic, dance and lyrical songs. Folk music was more song than instrumental (possibly influenced by the church ban on Russian musical instruments)."
+        },
+        {
+            "name": "ORTHODOX SPIRITUAL MUSIC",
+            "streamURL": "http://79.111.14.76:8002/orthodox",
+            "imageURL": "http://radcap.ru/stylegraf/orthodox5.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Orthodox music is a colloquial phrase, usually meaning music associated mainly with the worship of the Byzantine rite in the Orthodox Church or with the Orthodox worship of Ancient Russia. However, this phrase means different types of both Orthodox liturgical and non-liturgical singing."
+        },
+        {
+            "name": "LAIKA/ GREEK MUSIC",
+            "streamURL": "http://79.111.119.111:8002/laika",
+            "imageURL": "http://radcap.ru/stylegraf/laika2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Until the 1930s, two musical genres dominated Greek music: Greek folk music (including cleft songs) and the elafro song genre (the literal translation is “light song”). The latter was represented by ensembles of singers, musicians and solo performers, such as Cleon Triantafillu and Nikos Gunaris. It was the Greek interpretation of international popular music of the time."
+        },
+        {
+            "name": "GOSPEL/ SPIRITUALS MUSIC",
+            "streamURL": "http://79.111.14.76:8002/gospel",
+            "imageURL": "http://radcap.ru/stylegraf/gospel1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Gospel music, Gospel music (English Gospel music - evangelical music) is a genre of spiritual Christian music that developed in the first third of the 20th century in the USA. Usually distinguish Negro gospel and white gospel. What is common is that both were born in the Methodist churches of the American South."
+        },
+        {
+            "name": "EUROPEAN FOLK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "FLAMENCO",
+            "streamURL": "http://79.111.14.76:8002/flamenco",
+            "imageURL": "http://radcap.ru/stylegraf/flamenco1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Flamenco (isp. Flamenco) - traditional music and dance style originating from Andalusia (Spain); it is a fusion of music, singing and dance. The style is represented by several dozen varieties (over 50). Dancing and flamenco songs are usually accompanied by a guitar and a percussion: rhythmic clapping, playing a percussion box (kahon); sometimes - castanets."
+        },
+        {
+            "name": "TANGO",
+            "streamURL": "http://79.120.39.202:8002/tango",
+            "imageURL": "http://radcap.ru/stylegraf/tango1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Tango (isp. Tango) - Argentine folk dance; pair dance free composition, characterized by an energetic and clear rhythm. Originally performed exclusively by men."
+        },
+        {
+            "name": "MIDDLE EASTERN MUSIC",
+            "streamURL": "http://79.111.119.111:8002/middleeast",
+            "imageURL": "http://radcap.ru/stylegraf/middleeast.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "The music of the Middle East is an important part of world culture. Its roots are in the musical traditions of the ancient Arabs, Persians, Egyptians, Jews, Greeks and other peoples who lived in North Africa, on the Arabian Peninsula and in the Mediterranean. It differs from Western music with its special tonal structure, increased attention to love lyrics, philosophy and mysticism. Due to tough musical canons, many features of the ancient musical culture of the Middle East have survived to this day."
+        },
+        {
+            "name": "AFRICAN FOLK/ ETHNIC",
+            "streamURL": "http://79.120.39.202:8002/africanfolk",
+            "imageURL": "http://radcap.ru/stylegraf/africanfolk.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "The term “African music” means the music of the peoples south of the Sahara desert. The music is distinguished by a complex rhythmic structure and originality of the musical modes of each ethnic group. An important role in traditional music is played by various percussions (drums, sansa, xylophone) and wind instruments (various flute variants, horns)."
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        
+    
+    ]
 }
