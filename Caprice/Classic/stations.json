@@ -1,12 +1,82 @@
 {
     "station":
     [
-     {
-     "name": "Acoustic Blues",
-     "streamURL": "http://79.111.14.76:9071/",
-     "imageURL": "station-AcousticBlues",
-     "desc": "",
-     "longDesc": ""
-     }
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
      ]
 }

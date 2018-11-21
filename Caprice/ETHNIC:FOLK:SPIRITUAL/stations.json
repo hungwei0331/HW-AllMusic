@@ -2,7 +2,7 @@
     "station":
     [
         {
-            "name": "INDIAN CLASSICAL/ FOLK/ ETHNIC",
+            "name": "INDIAN CLASSICAL/FOLK/ETHNIC",
             "streamURL": "http://79.111.14.76:8002/indianfolk",
             "imageURL": "http://radcap.ru/stylegraf/indian1.jpg",
             "desc": "CAPRICE",
@@ -30,7 +30,7 @@
             "longDesc": "Until the 1930s, two musical genres dominated Greek music: Greek folk music (including cleft songs) and the elafro song genre (the literal translation is “light song”). The latter was represented by ensembles of singers, musicians and solo performers, such as Cleon Triantafillu and Nikos Gunaris. It was the Greek interpretation of international popular music of the time."
         },
         {
-            "name": "GOSPEL/ SPIRITUALS MUSIC",
+            "name": "GOSPEL/SPIRITUALS MUSIC",
             "streamURL": "http://79.111.14.76:8002/gospel",
             "imageURL": "http://radcap.ru/stylegraf/gospel1.jpg",
             "desc": "CAPRICE",
@@ -38,10 +38,10 @@
         },
         {
             "name": "EUROPEAN FOLK",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/europeanfolk",
+            "imageURL": "http://radcap.ru/stylegraf/eurofolk.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Folk music, folk music, musical and poetic creativity of the people, an integral part of folk art, existing, as a rule, in oral form, transmitted from generation to generation."
         },
         {
             "name": "FLAMENCO",
@@ -65,62 +65,95 @@
             "longDesc": "The music of the Middle East is an important part of world culture. Its roots are in the musical traditions of the ancient Arabs, Persians, Egyptians, Jews, Greeks and other peoples who lived in North Africa, on the Arabian Peninsula and in the Mediterranean. It differs from Western music with its special tonal structure, increased attention to love lyrics, philosophy and mysticism. Due to tough musical canons, many features of the ancient musical culture of the Middle East have survived to this day."
         },
         {
-            "name": "AFRICAN FOLK/ ETHNIC",
+            "name": "AFRICAN FOLK/ETHNIC",
             "streamURL": "http://79.120.39.202:8002/africanfolk",
             "imageURL": "http://radcap.ru/stylegraf/africanfolk.jpg",
             "desc": "CAPRICE",
             "longDesc": "The term “African music” means the music of the peoples south of the Sahara desert. The music is distinguished by a complex rhythmic structure and originality of the musical modes of each ethnic group. An important role in traditional music is played by various percussions (drums, sansa, xylophone) and wind instruments (various flute variants, horns)."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "MUSIC OF SIBERIA/MONGOLIA",
+            "streamURL": "http://79.111.119.111:8002/siberia",
+            "imageURL": "http://radcap.ru/stylegraf/siberia.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The first evidence of the birth of musical culture of Siberia are contained in archaeological sites. Rock paintings (petroglyphs) depicting rituals accompanied by music were found in the Gorny Altai caves (Kamennaya, Denisova, Ust-Karakol, Kara-Bom, Terrible), Irkutsk Region (Yelantsy), Tuva (Ching-Dag-Uzhu, Pestunovka Cave), Khakassia (grotto Two-eyes ). As a result of the excavations on the territory of Siberia, samples (fragments) of some musical instruments (Scythian harp), various decoys for beckoning birds and animals, human figures, which gave an idea of ​​the elements of the ritual dance of a shaman and other ritual dances, were found."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "FADO",
+            "streamURL": "http://79.111.14.76:8002/fado",
+            "imageURL": "http://radcap.ru/stylegraf/fado4.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Fado (English Fado) - Portuguese music (historically, also dance) genre. Literally, the word “Fado” means “Fatum”, “Fate”, the dominant emotion in the works is the acceptance of a bitter fate. The main varieties are Lisbon and Coimbra fado."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "CELTIC",
+            "streamURL": "http://79.111.14.76:8002/celtic",
+            "imageURL": "http://radcap.ru/stylegraf/celtic1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Celtic music (eng. Celtic music) is a term used to denote the totality of musical traditions of peoples who are descendants of the Celts. Modern descendants of the Celts live in Ireland, Scotland, Maine, Cornwall, Brittany, Wales, Galicia, Asturias and Cantabria. Synthesis of Celtic music with the genres of popular music spawned a whole direction - Celtic-fusion."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "NATIVE AMERICAN",
+            "streamURL": "http://79.111.119.111:8002/nativeamerican",
+            "imageURL": "http://radcap.ru/stylegraf/natam4.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Native American music is music that is used, created, or performed by Native Americans in the United States and the original peoples of Canada, in particular, traditional tribal music."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "BALKAN MUSIC",
+            "streamURL": "http://79.120.39.202:8002/balkan",
+            "imageURL": "http://radcap.ru/stylegraf/balkan.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The Balkan Peninsula is located in the south-east of Europe. This region amazes with a variety of nationalities, languages, religions, landscapes and, as a result, musical styles. Despite all the differences, many common threads link the musical life of the region."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "CAUCASIAN MUSIC",
+            "streamURL": "http://79.120.39.202:8002/caucasus",
+            "imageURL": "http://radcap.ru/stylegraf/caucasus1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The Caucasus is one of the most multinational regions, the bulk of the Caucasian (indigenous) peoples are concentrated here. He has unique natural and social characteristics of ethnic culture."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "INDIAN SPIRITUAL MUSIC",
+            "streamURL": "http://79.111.119.111:8002/mantra",
+            "imageURL": "http://radcap.ru/stylegraf/mantras.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Mantras are compared to psalms, prayers and spells. Hindus believe that mantra is a definite form of speech that has a significant effect on the mind, emotions, and even external objects. Usually a mantra is a combination of several sounds or words in Sanskrit."
         },
-        
-    
+        {
+            "name": "TRADITIONAL LATIN MUSIC",
+            "streamURL": "http://79.120.39.202:8002/salsa",
+            "imageURL": "http://radcap.ru/stylegraf/salsa.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Salsa (isp. Salsa - “sauce”) is a musical genre popular mainly in Latin America and among those who come from it. Salsa includes many styles and variations; In a broad sense, the term can be used for almost any music of Cuban origin (for example, cha-cha-cha, bolero, mambo)."
+        },
+        {
+            "name": "FAR EASTERN MUSIC",
+            "streamURL": "http://79.111.119.111:8002/fareast",
+            "imageURL": "http://radcap.ru/stylegraf/fareast.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "The region of the Far East throughout history has developed with the centrism of China. The influence of Chinese civilization, its philosophical and ideological doctrines of Confucianism, Buddhism and Taoism extended to all spheres of social life, which naturally determined a certain kinship in philosophy, theory, and specifically, in the forms and genres of music."
+        },
+        {
+            "name": "JEWISH MUSIC/KLEZMER",
+            "streamURL": "http://79.120.39.202:8002/klezmer",
+            "imageURL": "http://radcap.ru/stylegraf/klezmer2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Jewish music is a household, secular and cult music of the Jewish diaspora, as well as the works of Jewish composers who write on the basis of Jewish musical folklore. "
+        },
+        {
+            "name": "AMERICANA",
+            "streamURL": "http://79.120.39.202:8002/americana",
+            "imageURL": "http://radcap.ru/stylegraf/americana1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Americana (eng. Americana or americana music) is modern music that contains elements of various genres of American traditional music (country, folk, bluegrass, blues, gospel, R & B), has a characteristic traditionally-oriented sound, but cannot be clearly defined as One of these genres."
+        },
+        {
+            "name": "MEDIEVAL FOLK",
+            "streamURL": "http://79.120.39.202:8002/medievalfolk",
+            "imageURL": "http://radcap.ru/stylegraf/medievalfolk.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Medieval Folk (eng. Medieval Folk) - music performed on ancient instruments, recreating the authentic atmosphere of the Middle Ages, iridescent colorful melodies, telling about epic holidays and the daily life of ordinary peasants. For the most part, the music is bright and light, reveals the era of the Middle Ages mainly from the positive side. "
+        }
     ]
 }
