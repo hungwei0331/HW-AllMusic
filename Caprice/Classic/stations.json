@@ -2,81 +2,137 @@
     "station":
     [
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "SYMPHONY",
+            "streamURL": "http://79.111.14.76:8002/symphony",
+            "imageURL": "http://radcap.ru/stylegraf/symphony1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Symphony is a piece of music, usually in a cyclical sonata form, intended to be performed, as a rule, by a symphony orchestra; one of the most important genres of symphonic music. In addition to the orchestra, the chorus and vocals can be included in the symphony (there are cantata symphonies); symphonies can converge with other genres."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "CLASSICAL PIANO",
+            "streamURL": "http://79.120.39.202:8002/classpiano",
+            "imageURL": "http://radcap.ru/stylegraf/classicalpiano1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Sonata (Italian sonare - sound) is a genre of instrumental music, as well as a musical form, called the sonata form. Composed for chamber composition of instruments, as a rule, solo or duet. A number of instrumental pieces written for many orchestral compositions are usually called not a sonata, but a big concert (Italian concerto grosso)."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "CONTEMPORARY CLASSICAL",
+            "streamURL": "http://79.111.119.111:8002/contclass",
+            "imageURL": "http://radcap.ru/stylegraf/contclass.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Academic music of the 20th century is academic music created between 1900 and 2000. This period is characterized by a huge variety of musical styles and does not have a single, prevailing throughout its length, musical flow. Innovative trends characteristic of many twentieth-century music trends in European literature are often denoted by the concept of “New Music”."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "CLAVECIN/CEMBALO/HARPSICHORD",
+            "streamURL": "http://79.120.39.202:8002/clavecin",
+            "imageURL": "http://radcap.ru/stylegraf/clavecin2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Harpsichord (from fr. Clavecin; ital. Cembalo, clavicembalo; English harpsichord) is a keyboard stringed musical instrument with a plucked method of sound extraction. The musician performing works on the harpsichord and its varieties is called a harpsichordist."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "CLASSICAL GUITAR",
+            "streamURL": "http://79.120.39.202:8002/classguitar",
+            "imageURL": "http://radcap.ru/stylegraf/classguitar1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Classical (Spanish, six-string) guitar is a string plucked musical instrument. The main representative of the family of guitars in general, and acoustic guitars in particular. The first written references to the string instrument, which was the progenitor of modern guitar, date back to the 2nd millennium BC."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "SYMPHONIC MUSIC",
+            "streamURL": "http://79.120.77.11:8002/classical",
+            "imageURL": "http://radcap.ru/stylegraf/symphonic.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Classical symphonic music is a concept that characterizes and unites a wide range of musical forms and genres that have specific characteristics, attributive properties and the most important inner qualities of symphony."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "CLASSICAL CHORAL/VOCAL MUSIC",
+            "streamURL": "http://79.120.39.202:8002/chorus",
+            "imageURL": "http://radcap.ru/stylegraf/gregorian1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Cantata (italian. Cantata, from the Latin. Сantare - to sing) - vocal-instrumental composition for soloists, choir and orchestra. In the first half of XVII century. the vocal composition for one voice (madrigal) was called a cantata, as opposed to an instrumental composition called a sonata."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "RENAISSANCE MUSIC",
+            "streamURL": "http://79.111.119.111:8002/renaissance",
+            "imageURL": "http://radcap.ru/stylegraf/renaissance.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Music of the Renaissance or Renaissance music is the period in the development of European music between about 1400 and 1600. Certain difficulties are associated with the precise definition of the boundaries of the periods of development of classical music."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "CELLO/VIOLONCELLO",
+            "streamURL": "http://79.111.14.76:8002/cello",
+            "imageURL": "http://radcap.ru/stylegraf/cello.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Cello (Italian. Violoncello, abbr. Cello; german much larger. The cello has broad expressive possibilities and a carefully developed technique of performance, used as a solo, ensemble and orchestral instrument."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "HARP",
+            "streamURL": "http://79.120.39.202:8002/harp",
+            "imageURL": "http://radcap.ru/stylegraf/harp1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The harp is a stringed musical instrument, consisting of two angled frames, between which a multitude of strings are stretched. One of the oldest instruments, the symbol of Ireland. In the 18th century, a pedal harp was invented, becoming the standard in classical music."
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "ORGAN MUSIC",
+            "streamURL": "http://79.120.77.11:8002/organ",
+            "imageURL": "http://radcap.ru/stylegraf/organ1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Organ music (Eng. Organ repertoire, fr. Musique d'orgue, German Orgelmusik) - music intended for performance on the organ solo or accompanied by any other musical instruments."
         },
+        {
+            "name": "CLASSICAL BAROQUE",
+            "streamURL": "http://79.111.14.76:8002/baroque",
+            "imageURL": "http://radcap.ru/stylegraf/baroque2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Baroque music is a period in the development of European academic music, approximately between 1600 and 1750. Baroque music appeared at the end of the Renaissance and preceded classical music. The word 'baroque' supposedly comes from the Portuguese “perola barroca” - a pearl or sea shell of a fancy shape; or from lat."
+        },
+        {
+            "name": "MEDIEVAL MUSIC",
+            "streamURL": "http://79.120.39.202:8002/medieval",
+            "imageURL": "http://radcap.ru/stylegraf/medieval1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "The music of the Middle Ages is a period of development of musical culture, covering a period from about the 5th to the 15th century AD. Gradually, albeit slowly, the content of music, its genres, forms, means of expression are enriched. In Western Europe from the VI-VII centuries."
+        },
+        {
+            "name": "VIOLIN",
+            "streamURL": "http://79.111.14.76:8002/violin",
+            "imageURL": "http://radcap.ru/stylegraf/violin1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Violin-stringed stringed musical instrument high register. It has a national origin, the modern look acquired in the XVI century, was widely adopted in the XVII century. It has four strings tuned in quints: g, d1, a1, e2 (“salt” of the small octave, “re”, “la” of the first octave, “mi” of the second octave), the range from g (“salt” of the small octave) to a4 ("la" fourth octave) and above."
+        },
+        {
+            "name": "CHRISTIAN SACRED MUSIC",
+            "streamURL": "http://79.120.39.202:8002/sacred",
+            "imageURL": "http://radcap.ru/stylegraf/sacred1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Religious music (German: geistliche Musik, Italian. Musica sacra, English sacred music) - musical works related to texts of a religious nature, intended for performance during church service or in everyday life."
+        },
+        {
+            "name": "OPERA",
+            "streamURL": "http://79.120.39.202:8002/opera",
+            "imageURL": "http://radcap.ru/stylegraf/opera1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Opera (ital. Opera - business, work, work; Latin opera - works, products, works, many from opus) is a genre of musical and dramatic art in which the content is embodied by means of musical drama, mainly through vocal music."
+        },
+        {
+            "name": "STRINGS",
+            "streamURL": "http://79.120.39.202:8002/strings",
+            "imageURL": "http://radcap.ru/stylegraf/strings.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Violas were one of the first stringed instruments. As a separate family, they emerged in the 15th century. Viola is characterized by a gentle, matte timbre of weak power. They are represented by several varieties: alto, treble, double bass, tenor. Each subgroup is characterized by its size and, accordingly, the pitch of the sound."
+        },
+        {
+            "name": "CHAMBER MUSIC",
+            "streamURL": "http://79.120.39.202:8002/chamber",
+            "imageURL": "http://radcap.ru/stylegraf/chamber3.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Chamber music is music played by a small group of instrumentalists and / or vocalists. When performing chamber compositions, each part is performed, as a rule, by only one instrument (voice), unlike orchestral music, where there are groups of instruments playing in unison."
+        },
+        {
+            "name": "CLARINET/BASSOON/OBOE",
+            "streamURL": "http://79.120.39.202:8002/clarinet",
+            "imageURL": "http://radcap.ru/stylegraf/clarinet3.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Among the family of wooden wind musical instruments stands out a group of reed instruments, the sound source in which is a beating tongue, called a cane. The tongue oscillates in the air stream blown by the mouth of the artist. The height of the sound emitted by the instrument is adjusted by changing the size of the air column enclosed inside the instrument."
+        }
      ]
 }
