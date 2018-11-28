@@ -1,12 +1,131 @@
 {
     "station":
     [
-     {
-     "name": "Acoustic Blues",
-     "streamURL": "http://79.111.14.76:9071/",
-     "imageURL": "station-AcousticBlues",
-     "desc": "",
-     "longDesc": ""
-     }
+        {
+            "name": "ACOUSTIC BLUES",
+            "streamURL": "http://79.111.14.76:8002/acousticblues",
+            "imageURL": "http://radcap.ru/stylegraf/acousticdlues2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Acoustic blues (Acoustic blues) is a general, universal term that describes almost any kind of blues played on non-electric musical instruments. The style encompasses a wide range of musical directions, including folk, songmaking tradition, slide guitar, finger technique, ragtime and a large number of regional sub-styles (Chicago, Delta, Louisiana, Mississippi, Texas, Piedmont, etc.) that flourished during the genre of genre."
+        },
+        {
+            "name": "SOUL/NEO SOUL",
+            "streamURL": "http://79.120.39.202:8002/soul",
+            "imageURL": "http://radcap.ru/stylegraf/soul2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Soul or Sol (from the English soul - “soul”) is the most emotionally-felt, “soulful” direction of popular music of black people in the USA (rhythm and blues), developed in the southern states of the USA in the late 1950s under the influence of the jazz tradition vocal improvisation and spirituals. "
+        },
+        {
+            "name": "DELTA BLUES",
+            "streamURL": "http://79.120.77.11:8002/deltablues",
+            "imageURL": "http://radcap.ru/stylegraf/deltablues3.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Delta blues (English Delta blues) - one of the earliest styles of blues. Its name comes from the region where it originated, the Mississippi Delta, a marshland in northwestern Mississippi (not to be confused with the Mississippi Delta, located south). This area stretched from Memphis in the north to Vicksburg in the south, the Mississippi River in the west and the Yazoo River in the east."
+        },
+        {
+            "name": "SOUL BLUES",
+            "streamURL": "http://79.111.14.76:8002/soulblues",
+            "imageURL": "http://radcap.ru/stylegraf/soulblues.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "At the end of the 50s, significant changes took place in many areas of black music. It turned out that a partial fusion of blues, gospel, vocal groups and other forms of black music was reflected in the emergence of a generalized rhythm-and-blues genre. In parallel with the rapid growth of the popularity of these musical directions, the fields of activity of the record companies expanded."
+        },
+        {
+            "name": "LOUISIANA/SWAMP/NEW ORLEAN BLUES",
+            "streamURL": "http://79.111.14.76:8002/louisianablues",
+            "imageURL": "http://radcap.ru/stylegraf/swampblues.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Louisiana blues is a genre of blues music that developed in the period after the Second World War in the state of Louisiana. It is usually divided into two major sub-genres: the blues with the jazz influence of New Orleans, based on the musical traditions of this city and the blues of slow tempo blues, including influences from Zydeco and Cajun music from around Baton Rouge."
+        },
+        {
+            "name": "FUNK",
+            "streamURL": "http://79.111.119.111:8002/funk",
+            "imageURL": "http://radcap.ru/stylegraf/funk2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Funk - one of the fundamental currents of African American music. The term refers to the musical direction, along with the soul component rhythm-and-blues. The formation of funk began in the 60s, as opposed to the growing commercialization of rhythm and blues. The founders of the style were James Brown, George Clinton and Sly Stone."
+        },
+        {
+            "name": "HARMONICA BLUES",
+            "streamURL": "http://79.120.39.202:8002/harpblues",
+            "imageURL": "http://radcap.ru/stylegraf/harmonicablues2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Harmonica (colloquial harmonica) - reed pneumatic musical instrument, a kind of harmonica. Inside the harmonica are metal plates (tongues), which oscillate in the air stream created by the musician. Unlike other reed musical instruments, the harmonica does not have a keyboard; instead, it uses tongue and lips to select a hole (as a rule, they are arranged linearly) corresponding to the desired note."
+        },
+        {
+            "name": "COUNTRY/FOLK BLUES",
+            "streamURL": "http://79.120.77.11:8002/countryblues",
+            "imageURL": "http://radcap.ru/stylegraf/countryblues.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Country Blues (Country Blues, English Country blues; also known as folk blues (folk blues or folk blues), rural blues (village blues), backwoods blues (provincial blues), downhome blues (provincial blues) - archaic acoustic Blues based on the rural music folklore of the black population of the United States, in contrast to the classical blues, which predominantly urban life and therefore also called big city blues (literally the blues of the big city)."
+        },
+        {
+            "name": "PIANO BLUES/BOOGIE-WOOGIE",
+            "streamURL": "http://79.111.14.76:8002/pianoblues",
+            "imageURL": "http://radcap.ru/stylegraf/pianoblues.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Piano Blues (English Piano Blues) - a term that describes the various subgenres of blues, which are structured around the piano as the main musical instrument. Although blues is usually associated with playing the guitar, the history of the genre also knows southerner-blues pianists. Some, such as Skip James, played both guitar and piano."
+        },
+        {
+            "name": "SLIDE GUITAR",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "R'n'B",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "CHICAGO BLUES",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "HEAVY/HARD BLUES",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "POP SOUL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "BLUES",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ELECTRIC/MODERN ELECTRIC BLUES",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "TEXAS BLUES",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "JUMP BLUES",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        }
      ]
 }
