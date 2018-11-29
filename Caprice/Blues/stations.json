@@ -66,66 +66,66 @@
         },
         {
             "name": "SLIDE GUITAR",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/slideguitar",
+            "imageURL": "http://radcap.ru/stylegraf/slideguitar.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Slide guitar (Slide guitar, Eng. Slide guitar; Botlnek, Eng. Bottleneck guitar) - a special method or technique of playing the guitar, which is playing with the help of a slide (from Eng. Slide - slide, move smoothly), worn on the finger. Slide during the game does not come off the surface of the strings, but slides along them. Strings while not pressed to the frets. Instead of the fret, the slide itself is used."
         },
         {
             "name": "R'n'B",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/rnb",
+            "imageURL": "http://radcap.ru/stylegraf/rnb5.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Modern rhythm and blues (English Contemporary R'n'B, which is often called simply R'n'B) is a musical genre, especially popular in the United States, whose current position has been set since the 1940s R & B music."
         },
         {
             "name": "CHICAGO BLUES",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/chicagoblues",
+            "imageURL": "http://radcap.ru/stylegraf/chicagoblues1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Chicago blues (born Chicago blues) - a kind of blues, which originated in Chicago. Typical instruments are electric guitar, percussion instruments, piano, bass guitar, harmonica, and sometimes a saxophone."
         },
         {
             "name": "HEAVY/HARD BLUES",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/heavyblues",
+            "imageURL": "http://radcap.ru/stylegraf/hardblues.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Heavy / hard blues is a rather conditional term describing the peculiarities of the style of a particular piece of rock. A hard, melodic 'toned' piece based on a solo guitar is usually called Hard Blues. Although any blues, played in an aggressive attacking manner, can already be called Hard Blues."
         },
         {
             "name": "POP SOUL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/popsoul",
+            "imageURL": "http://radcap.ru/stylegraf/popsoul.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Pop Soul is soul music that has been slightly polished and commercially viable. The vocals are still raw, but the material and sound of the recording can easily fit into pop radio playlists. 'Motown Records' was an innovative pop soul label. During the 60s of the twentieth century, this musical style was one of the most popular in pop music."
         },
         {
             "name": "BLUES",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/blues",
+            "imageURL": "http://radcap.ru/stylegraf/blues2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Blues (eng. Blues from blue devils) is a musical form and musical genre that originated at the end of the 19th century in the African-American community of the Southeastern United States, among those who came from the cotton belt plantations. It is (along with ragtime, early jazz, rap, etc.) one of the most influential contributions to world music culture - African American."
         },
         {
             "name": "ELECTRIC/MODERN ELECTRIC BLUES",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/electricblues",
+            "imageURL": "http://radcap.ru/stylegraf/modelblues3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Electric blues (eng. Electric blues) - refers to various forms of blues, which are characterized by enhanced sound of musical instruments. The guitar was the first instrument that was often amplified by such pioneers as the T-Bone Walker in the late 1930s, John Lee Hooker and Muddy Waters in the 1940s."
         },
         {
             "name": "TEXAS BLUES",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/texasblues",
+            "imageURL": "http://radcap.ru/stylegraf/texasblues.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "According to the history of the development of the blues of the State of the Lone Star, you can trace the path of the whole genre as a whole: from acoustic pre-war music to roaring guitars of blues rock."
         },
         {
             "name": "JUMP BLUES",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/jumpblues",
+            "imageURL": "http://radcap.ru/stylegraf/jumpblues.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Jump blues is a subgenre of the blues, which is characterized by high speed performance, a small cast of performers and the presence of wind instruments. He was very popular in the 1940s and became the forerunner of such trends as rhythm and blues and rock and roll. In the 1990s, there was a resurgence of interest in the jump blues as part of such a phenomenon as a swing-river."
         }
      ]
 }
