@@ -2,70 +2,238 @@
     "station":
     [
         {
-            "name": "",
+            "name": "SMOOTH JAZZ",
+            "streamURL": "http://79.120.39.202:8002/smoothjazz",
+            "imageURL": "http://radcap.ru/stylegraf/smoothjazz4.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Smooth jazz (“soft jazz”) is a kind of jazz that appeared in the United States in the 1960-1970s, influenced by such directions as rhythm and blues, funk, rock and pop. Sometimes translated as “light jazz” or “smooth jazz”."
+        },
+        {
+            "name": "JAZZ FUNK",
+            "streamURL": "http://79.120.39.202:8002/jazzfunk",
+            "imageURL": "http://radcap.ru/stylegraf/jazzfunk.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Jazz-funk (eng. Jazz-funk) is a genre of jazz music. Characterized by an emphasis on a strong proportion of electrified sound, often the presence of analog synthesizers. The creation of the genre led the integration of musical styles of funk, soul and rhythm and blues in jazz. The range of jazz-funk is quite wide and includes jazz improvisations in funk, soul, jazz disco arrangements."
+        },
+        {
+            "name": "NU JAZZ/FUTURE JAZZ/ELECTRO SWING",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "FREE JAZZ",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "CONTEMPORARY JAZZ",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "SOUL JAZZ",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "MODERN CREATIVE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "CHAMBER JAZZ",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "CROSSOVER JAZZ",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "SWING",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "VOCAL JAZZ",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "HARD BOP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "BOSSA NOVA",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "LATIN/AFRO-CUBAN JAZZ",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "JAZZ MANOUCHE/GYPSY JAZZ",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "JAZZ POP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "BEBOP/BE-BOP/BOP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "MODAL JAZZM",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "BIG BAND",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "COOL/WEST COAST JAZZ",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "POST BOP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "PIANO JAZZ/STRIDE/RAGTIME",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "AVANT-GARDE JAZZ",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "FREE IMPROVISATION",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DARK/DOOM/NOIR/FUNERAL JAZZ",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "STYLE & SOUND ECM RECORDSStyle & Sound ECM Records",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DIXIELAND",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ACID JAZZ",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "MAINSTREAM JAZZ",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "JAZZ FUSION",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "JAZZ",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "GUITAR JAZZ",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ETHNO/WORLD JAZZ",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "THIRD STREAM",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",

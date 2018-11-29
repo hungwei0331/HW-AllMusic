@@ -2,35 +2,140 @@
     "station":
     [
         {
-            "name": "",
+            "name": "CLASSICAL CROSSOVER",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "RUSSIAN POP MUSIC",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "POP MUSIC 80's",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "NU DISCO",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "C-POP (CHINESE POP)",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "POP BALLADS",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "POP MUSIC",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ITALO DISCO",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "J-POP (JAPANESE POP)",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "FRENCH CHANSON",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "K-POP (KOREAN POP)",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "EURODANCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "EURO DISCO",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DISCO",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "EUROBEAT/HI-NRG",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "RUSSIAN POP MUSIC 80's",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ARABIC POP MUSIC",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "LATIN POP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DANCE POP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ITALO POP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
