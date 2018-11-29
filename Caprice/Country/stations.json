@@ -1,55 +1,47 @@
 {
     "station":
     [
-     {
-        "name": "ALTERNATIVE COUNTRY",
-        "streamURL": "",
-        "imageURL": "",
-        "desc": "CAPRICE",
-        "longDesc": ""
-     }, 
-     {
-        "name": "HONKY-TONK",
-        "streamURL": "",
-        "imageURL": "",
-        "desc": "CAPRICE",
-        "longDesc": ""
-     }, 
-     {
-        "name": "BLUEGRASS",
-        "streamURL": "",
-        "imageURL": "",
-        "desc": "CAPRICE",
-        "longDesc": ""
-     }, 
-     {
-        "name": "WESTERN SWING",
-        "streamURL": "",
-        "imageURL": "",
-        "desc": "CAPRICE",
-        "longDesc": ""
-     }, 
-     {
-        "name": "COUNTRYCountry",
-        "streamURL": "",
-        "imageURL": "",
-        "desc": "CAPRICE",
-        "longDesc": ""
-     }, 
-     {
-        "name": "COUNTRY POP",
-        "streamURL": "",
-        "imageURL": "",
-        "desc": "CAPRICE",
-        "longDesc": ""
-     }, 
-     {
-        "name": "",
-        "streamURL": "",
-        "imageURL": "",
-        "desc": "CAPRICE",
-        "longDesc": ""
-     }
-
+        {
+            "name": "ALTERNATIVE COUNTRY",
+            "streamURL": "http://79.111.119.111:8002/altcountry",
+            "imageURL": "http://radcap.ru/stylegraf/altcountry3.jpg",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        }, 
+        {
+            "name": "HONKY-TONK",
+            "streamURL": "http://79.120.39.202:8002/honkytonk",
+            "imageURL": "http://radcap.ru/stylegraf/honkytonk1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "The first musical genre, known as honky-tonk, was the kind of ragtime piano playing, with a heightened rhythm, sometimes even getting out of the composition motif. Thus, honky-tonk had a strong influence on the boogie-woogie piano-style, as shown by Jelly Morton's “Honky Tonk Music” 1938 and Honey Lewis's “Honky Tonk Train Blues”, which he recorded many times from 1927 until the 1950s."
+        }, 
+        {
+            "name": "BLUEGRASS",
+            "streamURL": "http://79.111.14.76:8002/bluegrass",
+            "imageURL": "http://radcap.ru/stylegraf/bluegrass2.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Bluegrass (English Bluegrass) is a genre of music originating from the Appalachian region, primarily Kentucky (bluegrass state), which is named after its name (bluegrass - bluegrass). The roots of this style go back to Irish, Scottish and English traditional music. Bluegrass is a fancy mix of immigrant music from the British Isles, as well as African American jazz and blues."
+        }, 
+        {
+            "name": "WESTERN SWING",
+            "streamURL": "http://79.111.14.76:8002/westernswing",
+            "imageURL": "http://radcap.ru/stylegraf/westernswing1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Western Swing (Western Swing) is a style of popular music, one of the earliest country styles, the birth of which is considered the 20s of the XX century in the American south-west among the popular string groups of the region. This is dance music, often at an accelerated pace. The style has incorporated rural, cowboy, folk motives, as well as the sound of New Orleans and Dixieland jazz."
+        }, 
+        {
+            "name": "COUNTRY",
+            "streamURL": "http://79.120.77.11:8002/country",
+            "imageURL": "http://radcap.ru/stylegraf/country.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Country music, country music (from the English country “rural, village”) is a generalized name for the form of music that originated among the white populations of the rural areas of the south and west of the United States, US folk music whose origins date back to the first white colonists from Europe ), settled in the New World in the XVII-XVIII centuries."
+        }, 
+        {
+            "name": "COUNTRY POP",
+            "streamURL": "http://79.111.119.111:8002/countrypop",
+            "imageURL": "http://radcap.ru/stylegraf/countrypop1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Country Pop (English Country pop) is a subgenre of country music. The reunion of country and pop began in the 1950s, when studio executives Chet Atkins and Owen Bradley wanted to create a new kind of music for the young crowd, which grew after rockabilly stole most of the youth audience of country music."
+        }
      ]
 }
