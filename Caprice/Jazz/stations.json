@@ -17,227 +17,220 @@
         },
         {
             "name": "NU JAZZ/FUTURE JAZZ/ELECTRO SWING",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/nujazz",
+            "imageURL": "http://radcap.ru/stylegraf/nujazz.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "New Urban Jazz or Nu Jazz (Nu-Jazz) is music that connects jazz elements with other styles, such as funk, soul, different styles of electronic music and improvisation. The term appeared in the late 1990s, although the musical style itself began to take shape earlier."
         },
         {
             "name": "FREE JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/freejazz",
+            "imageURL": "http://radcap.ru/stylegraf/freejazz1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Free jazz (English Free jazz, literally 'free jazz') is a style of modern jazz music, which is characterized by a departure from the principles of the tonal organization of musical material, the bluesy chord sequence, and traditional swing rhythm. The main focus is on the freedom of improvisation (often group), a variety of expressive means, allowing to reflect the intellectual and sensual components of music as fully as possible."
         },
         {
             "name": "CONTEMPORARY JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/contemporaryjazz",
+            "imageURL": "http://radcap.ru/stylegraf/contemporaryjazz2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Contemporary Jazz, in essence, is a general term for popular jazz music of the last decades, as a continuation of fusion development trends. At the same time, contemporary jazz is considered to be a combination of a pleasant, soft atmosphere of smooth jazz, an exquisite sound of jazz-funk and crossover jazz, with hints of pop music and rhythm and blues (R & B)."
         },
         {
             "name": "SOUL JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/souljazz",
+            "imageURL": "http://radcap.ru/stylegraf/souljazz6.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Soul Jazz (eng. Soul jazz) is jazz, which is a kind of hard bop, developed on the basis of funky performing style and based on the traditions of blues and African American folklore. In a broad sense, soul music is sometimes referred to as the whole corpus of Negro music, in any way associated with blues traditions. For soul jazz is characterized by reliance on the traditions of African-American folklore and blues."
         },
         {
             "name": "MODERN CREATIVE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/mcreative",
+            "imageURL": "http://radcap.ru/stylegraf/mcreative.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The intersections of free jazz (as well as bebop, jazz-fusion) with pop and rock music gave rise to a direction called Modern Creative (Modern Creative) - this includes, in particular, the work of Muhalal Richard Abrams, Fred Anderson, Matthew Shipp. The combination of free jazz with funk music resulted in the isolation of the free-funk style, to which Art Ensemble of Chicago, already renowned in the free-jazz scene, Derek Bailey and others turned."
         },
         {
             "name": "CHAMBER JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/chamberjazz",
+            "imageURL": "http://radcap.ru/stylegraf/chamberjazz.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Chamber Jazz (English Chamber Jazz) is a sub-style of jazz music, created mainly by small acoustic ensembles with emphasized improvisation and influenced by neo-classicism and traditional folk music. It is often influenced by classical music from non-Western cultures, mainly Asian classical music, Persian classical music and classical music from East Asia."
         },
         {
             "name": "CROSSOVER JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/crossjazz",
+            "imageURL": "http://radcap.ru/stylegraf/crossoverjazz.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Crossover Jazz (English Crossover Jazz) - style of 'okolodzhazovoy' music, the fusion of pop trends in music and jazz. It arose due to the gradual decrease in the activity of rock music, which began in the early 1970s."
         },
         {
             "name": "SWING",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/swing",
+            "imageURL": "http://radcap.ru/stylegraf/swing3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Swing - the direction of jazz music, the most widely represented in the performing practice of large orchestras. The term “swing” in jazz has several meanings. For example, if they say that there is no swing in the performer’s game, it usually means that the musician’s performance is devoid of intense beat pulsation — a wave-like movement that is created on the contrast of the beat and off-beat, giving the impression of a swing, or swing."
         },
         {
             "name": "VOCAL JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/vocaljazz",
+            "imageURL": "http://radcap.ru/stylegraf/vocaljazz2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Music can be both instrumental and vocal, but historically the man’s first instrument was undoubtedly his voice. Jazz has its own singing characteristics, which gradually changed in parallel with the general evolution of jazz. Jazz vocal is one of the most important means of jazz expressiveness. At first, the participation of the human voice in jazz was a somewhat anomalous phenomenon, since instead of free improvisation (as an instrumentalist), the performer had only a sample of the text."
         },
         {
             "name": "HARD BOP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/hardbop",
+            "imageURL": "http://radcap.ru/stylegraf/hardbop2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Hard-bop - jazz style, developed from bebop and cool-jazz, incorporating elements of soul, church music (gospel) and blues. The peak of his popularity came in the 1950-60s of the XX century. Basically this period in jazz is associated with such personalities as Sonny Rollins, John Coltrane, Miles Davis, Art Blakey and Charles Mingus. Subsequently, the followers of bebop and hard-bop added a little more style to it in the form of modal jazz, in which the harmony of the structure of individual parts became even more free, but this was usually manifested only when playing chords on the piano (including low tones)."
         },
         {
             "name": "BOSSA NOVA",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/bossanova",
+            "imageURL": "http://radcap.ru/stylegraf/bossanova5.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Bosanova (also bossa nova, port. Bossa nova) is a style of Brazilian music, representing a peculiar blend of kul-jazz with various local rhythms, among which are bayau and, first of all, samba."
         },
         {
             "name": "LATIN/AFRO-CUBAN JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/latinjazz",
+            "imageURL": "http://radcap.ru/stylegraf/latinjazz2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The combination of Latin rhythmic elements was present in jazz almost from the very beginning of the mixing of cultures originated in New Orleans. Jelly Roll Morton spoke about 'Spanish shades' in his notes of the mid and late 1920s. Duke Ellington and other heads of jazz orchestras also used Latin forms."
         },
         {
             "name": "JAZZ MANOUCHE/GYPSY JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/manouche",
+            "imageURL": "http://radcap.ru/stylegraf/manouche.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Jazz Manush (jazz-manouche) - the European direction of jazz, also known as gypsy jazz (gypsy-jazz) and gypsy swing (gypsy-swing) combines the traditional music of the gypsies of the ethnic group “manush” and swing."
         },
         {
             "name": "JAZZ POP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/jazzpop",
+            "imageURL": "http://radcap.ru/stylegraf/jazzpop1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Since Louis Armstrong introduced the virtuosity of improvisation to the world of jazz, the question has arisen in the jazz community: can music emphasize melodic accessibility without losing its artistic properties. Jazz, by that time, had already established traditions of using standards as a starting point for long-term improvisations, satisfying jazz lovers who appreciate the unpredictability and various forms of musical material presentation."
         },
         {
             "name": "BEBOP/BE-BOP/BOP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/bebop",
+            "imageURL": "http://radcap.ru/stylegraf/bebop1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Bebop, bebop, bop (eng. Bebop) is a jazz style that took shape in the early to mid 40s of the 20th century and was characterized by a fast paced and complex improvisations based on playing harmony, not melody. Bebop made a revolution in jazz, the boppers created new ideas about what music is. The founders of the bebop were: saxophonist Charlie Parker, trumpeter Dizzy Gillespie, pianists Bad Powell and Thelonius Monk, drummer Max Roach."
         },
         {
             "name": "MODAL JAZZM",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/modaljazz",
+            "imageURL": "http://radcap.ru/stylegraf/modal.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Modal Jazz (English modal jazz) - the direction of jazz music, which arose in the 1960s. It is based on the modal principle of improvisation, in contrast to the tonal, more characteristic of classical music and early jazz. Unlike traditional jazz, where pentatonic was the most common for improvisation, modal jazz actively uses the Lada-Dorian, Phrygian, Lydian, and other scales of both European and non-European origin."
         },
         {
             "name": "BIG BAND",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/bigband",
+            "imageURL": "http://radcap.ru/stylegraf/bigband.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Big band, also big band (eng. Big band) - a large jazz orchestra with numerous repetitive wind instruments. For the first time, big bands appeared in the 1920s in the USA and were the leading performing music groups in the swing era (in the 1930s). Big bands are designated by the name of their leader; The most famous include Paul Whiteman, Count Basie, Duke Ellington, Glenn Miller, Benny Goodman, Artie Shaw, Quincy Jones, Fletcher Henderson and many others."
         },
         {
             "name": "COOL/WEST COAST JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/cooljazz",
+            "imageURL": "http://radcap.ru/stylegraf/cooljazz1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Kul-jazz (also “cool jazz” - literally translated from English. Cool jazz) is a style of modern jazz that emerged in the late 1940s on the West Coast of the United States, which became widespread mainly among white musicians, boppers, and reached its greatest prosperity in the 1960s years."
         },
         {
             "name": "POST BOP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/postbop",
+            "imageURL": "http://radcap.ru/stylegraf/postbop.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Post-bop (English “Post-bop”) is a genre of modern jazz that emerged and reached its peak in the early to mid-1960s. In fact, it is a collective term (at the time of recording what is commonly called post-bop albums, it was not used), denoting a new stage in the evolution of bebop - combining elements of bop, hard bop, modal jazz, free jazz, but not related in full to none of these directions."
         },
         {
             "name": "PIANO JAZZ/STRIDE/RAGTIME",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/pianojazz",
+            "imageURL": "http://radcap.ru/stylegraf/pianojazz.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Jazz piano is a collective term for technicians who use pianists to play jazz. In the extended sense, the word can be used for the same techniques of playing any other keyboard instrument. The piano was an integral part of the jazz style from the very beginning, both solo and as part of an ensemble. His role is one of the most multifaceted, largely due to the unified melodic and harmonious nature of the instrument."
         },
         {
-            "name": "AVANT-GARDE JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "AVANT-GARDE JAZZ/FREE IMPROVISATION",
+            "streamURL": "http://79.111.119.111:8002/avantgardejazz",
+            "imageURL": "http://radcap.ru/stylegraf/avantjazz.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "FREE IMPROVISATION",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Avant-garde jazz - the direction of jazz, which arose in the 1950s-1960s. Very close to free jazz. It is a mixture of elements of traditional jazz with avant-garde music. The greatest influence on the emergence of avant-garde jazz had John Coltrane, who expanded the boundaries of post-bop and hard-bop with his works of the early to mid-1960s."
         },
         {
             "name": "DARK/DOOM/NOIR/FUNERAL JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/darkjazz",
+            "imageURL": "http://radcap.ru/stylegraf/darkjazz5.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The birth of this style originates from the work of such an eminent person as Miles Davis (Miles Dewey Davis) a trumpeter, composer, participant and leader of many US jazz groups of the twentieth century, an outstanding innovator. It was his 1958 album 'Ascenseur pour l'échafaud', which was recorded as the soundtrack for the same French film laid the foundation for such a musical phenomenon as dark jazz."
         },
         {
-            "name": "STYLE & SOUND ECM RECORDSStyle & Sound ECM Records",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "STYLE & SOUND ECM RECORDS",
+            "streamURL": "http://79.111.119.111:8002/ecm",
+            "imageURL": "http://radcap.ru/stylegraf/ecm9.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "ECM Records (“Edition of Contemporary Music” from the English. Edition of Contemporary Music) is an independent German label that specializes in jazz and academic music. Although most of the musicians produced on the label, usually do not adhere to strict style framework, the company is strongly associated with a special, often 'minimalistic', recognizable sound, at the junction of jazz, academic music and ambient."
         },
         {
             "name": "DIXIELAND",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/dixieland",
+            "imageURL": "http://radcap.ru/stylegraf/dixieland.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Dixieland (English Dixieland) - the name of jazz ensembles, consisting of white performers, imitating the traditional Negro jazz bands and playing jazz in the New Orleans style. Literally translated from English, the word "Dixieland" means: "Dixie's country", where Dixie is the colloquial designation of the South of the USA."
         },
         {
             "name": "ACID JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/acidjazz",
+            "imageURL": "http://radcap.ru/stylegraf/acidjazz4.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Acid jazz (Russian acid jazz, also acid jazz or acid jazz) is a musical genre that combines elements of jazz and funk of the 70s and dance music of the 90s or hip hop."
         },
         {
             "name": "MAINSTREAM JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/mainstreamjazz",
+            "imageURL": "http://radcap.ru/stylegraf/mainstreamjazz2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Mainstream (eng. Mainstream) includes three currents: Stride (northeast jazz), Kansas City style and West Coast jazz. Hot stride reigned in Chicago, led by such masters as Louis Armstrong, Andy Condon, Jimmy Mac Partland. Kansas City is characterized by lyrical plays in blues style. West Coast Jazz developed in Los Angeles under the direction of Miles Davis, and later turned into cool jazz."
         },
         {
             "name": "JAZZ FUSION",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/jazzfusion",
+            "imageURL": "http://radcap.ru/stylegraf/jazzfusion3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Jazz fusion (also jazz-rock fusion, rock fusion or fusion; English fusion - fusion) - a musical genre that combines elements of jazz and music of other styles, usually pop, rock, folk, reggae, funk, metal, R & B , hip-hop, electronic music and ethnic music. Even fusion albums, even made by a single artist, often include a variety of these styles."
         },
         {
             "name": "JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/jazz",
+            "imageURL": "http://radcap.ru/stylegraf/jazz.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Jazz (Eng. Jazz) - a form of musical art that emerged in the late XIX - early XX century in the United States as a result of the synthesis of African and European cultures and later received widespread. Improvisation, polyrhythm based on syncopated rhythms, and a unique set of techniques for performing rhythmic texture - swing, are characteristic features of the musical language of jazz."
         },
         {
             "name": "GUITAR JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/guitarjazz",
+            "imageURL": "http://radcap.ru/stylegraf/guitarjazz.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Acoustic guitar was originally included in the jazz ensembles as an element of the rhythm section (presumably as an alternative to the banjo). In Dixieland, the guitar or banjo carried mostly chord-rhythmic function. Since banjoists (and guitarists) played mainly in flat keys, accompanying wind instruments, jazz fingering of chords, differing from classical, based on open strings, with a kind of “convex” sound gradually began to take shape."
         },
         {
             "name": "ETHNO/WORLD JAZZ",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/ethnojazz",
+            "imageURL": "http://radcap.ru/stylegraf/ethnojazz.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Ethno Jazz is a form of ethno music, akin to world music and world fusion. A separate concept of Ethno Jazz appeared in the 1990s along with globalization and the widespread use of the Internet, as the commercial success of ethnic groups and musicians of this style."
         },
         {
             "name": "THIRD STREAM",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/thirdstream",
+            "imageURL": "http://radcap.ru/stylegraf/thirdstream.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The third stream (English Third Stream) is a term coined by composer and professor Gunther Schuller in 1957 at a lecture at Brandeis University to describe the musical genre that came directly from jazz and is a synthesis of classical music and jazz. Improvisation is generally seen as an essential component in the third thread."
         }
      ]
 }
