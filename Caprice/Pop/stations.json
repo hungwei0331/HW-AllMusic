@@ -3,38 +3,38 @@
     [
         {
             "name": "CLASSICAL CROSSOVER",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/classcross",
+            "imageURL": "http://radcap.ru/stylegraf/classcross1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Classical crossover (classic crossover) - a musical style that represents a kind of synthesis, a harmonious combination of elements of classical music and pop, rock, electronic music. The name was officially established not so long ago, having entered the list of nominations for the Grammy Music Award, annually awarded by the US National Recording Academy."
         },
         {
             "name": "RUSSIAN POP MUSIC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/popru",
+            "imageURL": "http://radcap.ru/stylegraf/popru2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Russian pop music is the collective name of popular music production of Russian and Russian-language pop music from the CIS countries, the Baltic States, and also abroad, in which songs are performed primarily in Russian, in the languages ​​of the CIS countries, and (less often) in other languages ​​of the world. Foreigners from far abroad, unfamiliar with Russia and the USSR, often do not distinguish between Soviet pop music, Russian pop music, Russian pop music, Russian-language pop music, although these concepts are not identical."
         },
         {
             "name": "POP MUSIC 80's",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/pop80",
+            "imageURL": "http://radcap.ru/stylegraf/pop802.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Pop music of the 80s is a separate layer of musical culture, which gave rise to almost all areas of the modern pop scene. Not by chance, as time passes, we often hear familiar melodies that sound fresh, albeit with some nostalgia. Disco, Eurodisco, Italodisk, here are the "three whales" on which pop music of that time was kept. Today, the number of styles and directions of pop music has noticeably increased, but despite all their diversity, each of them is influenced by precisely that epoch of the Disco era. "
         },
         {
             "name": "NU DISCO",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/nudisco",
+            "imageURL": "http://radcap.ru/stylegraf/nudisco3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Nu-disco (eng. New disco disco) is a 21st century dance music genre associated with a renewed interest of listeners in disco music of the late 1970s and early 1980s, the italo disco of the mid 1980s and the synthesizer Eurodisco."
         },
         {
             "name": "C-POP (CHINESE POP)",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/cpop",
+            "imageURL": "http://radcap.ru/stylegraf/cpop1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Chinese pop music (C-Pop, Chinese Pop) - an abbreviation of the name of Chinese popular music, a freely defined music genre originating from mainland China, Hong Kong and Taiwan, other countries where Chinese is used by a large population, such as Singapore and Malaysia. C-pop is sometimes used as an umbrella term, covering not only Chinese pop music, but also R & B, ballads, Chinese rock, Chinese hip-hop and Chinese ambient music, although Chinese rock became a separate genre in the early 1990s."
         },
         {
             "name": "POP BALLADS",
