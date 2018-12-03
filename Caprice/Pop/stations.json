@@ -6,7 +6,7 @@
             "streamURL": "http://79.120.77.11:8002/classcross",
             "imageURL": "http://radcap.ru/stylegraf/classcross1.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Classical crossover (classic crossover) - a musical style that represents a kind of synthesis, a harmonious combination of elements of classical music and pop, rock, electronic music. The name was officially established not so long ago, having entered the list of nominations for the Grammy Music Award, annually awarded by the US National Recording Academy."
+            "longDesc": "Classical crossover - a musical style that represents a kind of synthesis, a harmonious combination of elements of classical music and pop, rock, electronic music. The name was officially established not so long ago, having entered the list of nominations for the Grammy Music Award, annually awarded by the US National Recording Academy."
         },
         {
             "name": "RUSSIAN POP MUSIC",
@@ -38,66 +38,73 @@
         },
         {
             "name": "POP BALLADS",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/popballads",
+            "imageURL": "http://radcap.ru/stylegraf/popballads2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Lyrical compositions of incredible beauty and harmony performed by famous artists."
         },
         {
             "name": "POP MUSIC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/pop",
+            "imageURL": "http://radcap.ru/stylegraf/pop4.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Pop music - the direction of modern music, a type of modern mass culture. The term 'pop music' has a double meaning. In a broad sense, this is any mass music (including rock, electronics, jazz, blues). In a narrow sense - a separate genre of popular music, directly pop music with certain characteristics."
         },
         {
             "name": "ITALO DISCO",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/italodisco",
+            "imageURL": "http://radcap.ru/stylegraf/italodisco3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Italo Disco is a music marketing term introduced in 1983 by Bernhard Mikulski, the founder of the record company ZYX Records. The term referred to Italian electronic dance music of the 1980s and to music from other parts of Europe and from North America, which imitated these sounds."
         },
         {
             "name": "J-POP (JAPANESE POP)",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/jpop",
+            "imageURL": "http://radcap.ru/stylegraf/jpop1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "J-pop or jay-pop is a generic term for the classification of Japanese popular music, abbr. from English "Japanese pop". Sometimes the term is used for rock music in Japan, but for it basically another term J-rock is used. Because of this, many rock artists (not heavy directions) from Japan attribute some of their work to J-pop."
         },
         {
             "name": "FRENCH CHANSON",
+            "streamURL": "http://79.111.14.76:8002/frenchchanson",
+            "imageURL": "http://radcap.ru/stylegraf/frenchchanson1.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Chanson (fr. Chanson - song) is a genre of vocal music. French chandeliers used a genre of chanson in the late 19th century - first half of the 20th century. The most famous of them are Aristide Bruan, Mistingett. From the cabaret, this modification of chanson moved to the French pop music of the XX century."
+        },
+        {
+            "name": "FRENCH POP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "French pop music - pop music played in French. Usually by musicians from France, Canada, Belgium, Switzerland or any other French speaking region of the world. The target audience is the French-language music market (primarily France), which is much smaller and largely independent of the mainstream market of English-speaking musicians."
         },
         {
             "name": "K-POP (KOREAN POP)",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/kpop",
+            "imageURL": "http://radcap.ru/stylegraf/kpop.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "K-pop (an abbreviation of English Korean pop) is a musical genre that originated in South Korea and incorporates elements of Western electropop, hip-hop, dance music and modern rhythm and blues. Appearing initially as a musical genre, K-pop has become a large-scale musical subculture with millions of fans among young people all over the world."
         },
         {
             "name": "EURODANCE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/eurodance",
+            "imageURL": "http://radcap.ru/stylegraf/eurodance.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Eurodance (from Eurodance - European and dance - dance) is a collective term for the direction of European electronic dance music, which appeared in the late 1980s at the confluence of techno, house and elements of European disco and had a popularity peak in the early to mid-90 -h. Nowadays, the popularity of this trend (rather than style as such) has declined significantly."
         },
         {
             "name": "EURO DISCO",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/eurodisco",
+            "imageURL": "http://radcap.ru/stylegraf/eurodisco.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Eurodisco (euro disco) is a term that unites the genres of electronic dance music that originated in Europe in the 1980s - electropop and disco along with new derivatives from them, such as Hi-NRG, Italo Disco, House, Europop and others. A typical Eurodisc song is based on the use of a synthesizer, drum machine, bright bass and is usually sung on high tones. In the 1980s, the term was rarely used in Europe, where such music was and was simply considered pop or disco music."
         },
         {
             "name": "DISCO",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/disco",
+            "imageURL": "http://radcap.ru/stylegraf/disco4.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Disco (English Disco, lit. 'disco') - one of the main genres of dance music of the XX century, which arose in the early 1970s. Disco almost simultaneously developed in the USA and Europe. The development of the genre was mainly influenced by such styles of music as funk, Latin American music and soul music."
         },
         {
             "name": "EUROBEAT/HI-NRG",
@@ -107,39 +114,46 @@
             "longDesc": ""
         },
         {
-            "name": "RUSSIAN POP MUSIC 80's",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "SCHLAGER",
+            "streamURL": "http://79.120.77.11:8002/schlager",
+            "imageURL": "http://radcap.ru/stylegraf/schlager.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Schlager (German: Schlager- literally: action (from German. Schlag- strike); best-selling product, the highlight of the season, synonymous with a song-hit) - popular for a period of time, a fashionable song with a catchy tune (usually pop) single or in general any work of various genres that are particularly popular."
+        },
+        {
+            "name": "RUSSIAN POP MUSIC 80's",
+            "streamURL": "http://79.120.77.11:8002/80ru",
+            "imageURL": "http://radcap.ru/stylegraf/80ru5.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "In the early 1980s, Russian-language music from the Soviet period was on the rise. During this period Raymond Pauls, a talented Latvian composer, creates. Many musical compositions, such as The Million Scarlet Roses, created during this period will then become almost classical examples."
         },
         {
             "name": "ARABIC POP MUSIC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/arabicpop",
+            "imageURL": "http://radcap.ru/stylegraf/arabicpop3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Arabic pop music is pop music performed in Arabic and popular mainly in the Arab world. Most of this music was produced in the Egyptian capital Cairo, before the civil war in Lebanon, Beirut was also a major production center. The development of Arab popular music is associated with the Arab film industry, the center of which is also Cairo. Stylistically, the genre is based on pop-rhythms traditional for the Western world with elements of regional varieties of Arab traditional music."
         },
         {
             "name": "LATIN POP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/latinpop",
+            "imageURL": "http://radcap.ru/stylegraf/latinpop7.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Latin American pop music (English Latin Pop, Spanish Pop Latino) is the main subgenre of Latin American music. It is mainly performed in Spanish and Portuguese, less often in Spanglish (a mixture of English and Spanish), in some cases in English. The main instruments for performing Latin American music are the Spanish guitar, accordion, saxophone, African drums."
         },
         {
             "name": "DANCE POP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/dancepop",
+            "imageURL": "http://radcap.ru/stylegraf/dancepop2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Dance-pop is an electronic dance music style and a sub-genre of pop music that evolved from the post-disco era around 1981, and combined dance rhythms with pop, house and / or song structure with modern rhythm n-blues. Appearing in the mid-80s, this style was a reflection of the composers' attempts to express the potential of pop music with the help of new electronic instruments."
         },
         {
             "name": "ITALO POP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/italopop",
+            "imageURL": "http://radcap.ru/stylegraf/italopop.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Italy's music is multifaceted, like the country itself. It’s hard to imagine a person who has never heard the names of such masters of classical music as Giuseppe Verdi and Joacino Rossini, Nicolo Paganini and Antonio Vivaldi."
         }
      ]
 }
