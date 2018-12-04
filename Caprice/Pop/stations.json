@@ -108,10 +108,10 @@
         },
         {
             "name": "EUROBEAT/HI-NRG",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/eurobeat",
+            "imageURL": "http://radcap.ru/stylegraf/eurobeat.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Eurobeat (English Eurobeat) - the genre of electronic music, which appeared in the late 1980s, a form of early British dance pop, is a combination of two genres, Italo Disco and Hi-NRG. Genre is characterized by hard synth sound. Early compositions (until the mid-90s) differed by an average tempo (125 - 150 BPM), the later ones had a faster tempo (140 - 190 BPM) and were often accompanied by hard electric guitars."
         },
         {
             "name": "SCHLAGER",

@@ -3,122 +3,122 @@
     [
         {
             "name": "PSYCHOBILLY",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/psychobilly",
+            "imageURL": "http://radcap.ru/stylegraf/psychobilly.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Saykobilli (English Psychobilly) is a genre of rock music that combines the expression and aggressiveness of punk rock with country and rockabilly melodies. According to the American critic Jen Kaminsky, the genre of “cyclobili” unites all modern and post-punk rockabilly types (such as gotabilly, pankabilli, surfabilli, crastabilly, thrasabilly, etc.) As a rule, instead of a bass guitar, a bass bass (continuity with rockabilly) is used in psychobilly groups."
         }, 
         {
             "name": "INDIE/TWEE POP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/indiepop",
+            "imageURL": "http://radcap.ru/stylegraf/twee.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Indie Pop, in the United States also Twi-Pop, was an alternative rock style that developed in the mid-80s of the 20th century, usually called Scottish post-punk bands, published on Postcard Records - Orange Juice, Josef K, etc. .: This music, deprived of the usual for punk rock and post-punk depression and aggression, was simple, melodic and 'positive'."
         },
         {
             "name": "FOLK ROCK",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/folkrock",
+            "imageURL": "http://radcap.ru/stylegraf/folkrock3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Folk-rock (eng. Folk rock) - a musical genre that combines elements of folk and rock. In the original and narrowest sense, the term "folk rock" refers to the genre formed in the United States and Great Britain in the mid-1960s. The pioneer of the genre is the band The Byrds from Los Angeles, which begins to perform traditional folk music and songs by Bob Dylan in typical rock instrumentation, strongly influenced by The Beatles and other British groups."
         },
         {
             "name": "ROCK&ROLL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/rockroll",
+            "imageURL": "http://radcap.ru/stylegraf/rocknroll4.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Rock and roll (from the English. Rock and roll or rock'n'roll) - a genre of popular music, which became widespread in the mid-1950s. Formed from a combination of elements of African-American and 'white' genres, like rhythm and blues and country. The style of white performers was also called rockabilly."
         },
         {
             "name": "HARD ROCK",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/hardrock",
+            "imageURL": "http://radcap.ru/stylegraf/hardrock.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Hard rock (English hard rock, literally hard rock or hard rock) is a genre of rock music, characterized by the highlighted role of the so-called. rhythm section, mainly bass and percussion instruments. Compositions of this genre are often built on riffs in figures with a size of 4/4. Hard rock was born in the 1960s, took on its usual forms in the late 1960s - early 1970s, and it flourished in the early 1970s, with the participation of bands such as Led Zeppelin, Deep Purple and Black Sabbath."
         },
         {
             "name": "RUSSIAN ROCK/BARD ROCK",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/rockru",
+            "imageURL": "http://radcap.ru/stylegraf/rockru4.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Russian rock is rock music from Russia or in Russian. Russian rock originated in the USSR in the second half of the 20th century under the influence of world, especially Western, music, and still exists in Russia and the CIS countries."
         },
         {
             "name": "GLAM ROCK/METAL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://radcap.ru/stylegraf/glamrock1.jpg",
+            "imageURL": "http://radcap.ru/stylegraf/glamrock1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Glam rock (from Glam rock, from glamorous - “spectacular”) is a genre of rock music that originated in the UK in the very beginning of the 1970s. and became one of the dominant genres of the first half of that decade. Glam rock performers were characterized by a vivid image, expressed through theatrical showiness of exotic costumes, abundant use of makeup, androgynous appearance. Musically, glam rock was heterogeneous, combining rock and roll, hard rock, art rock and pop. Elements of the glam rock style had a significant impact on disco, punk, new wave."
         },
         {
             "name": "INSTRUMENTAL ROCK",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/instrumentalrock",
+            "imageURL": "http://radcap.ru/stylegraf/instrumentalrock.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Instrumental rock is a genre of rock music, in which music prevails, not vocals. It was most popular in the 1950s and 1960s. Examples of instrumental rock can be found in almost any genre. Most influential on instrumental rock are the following performers: Joe Satriani, Steve Vai, Link Rey, Eric Johnson, Chuck Berry, Surfaris, Dick Dale, The Ventures, The Shadows, Jeff Beck, Jennifer Batten, Paul Gilbert, Les Fradkin, Booker T and the MGs, The Champs and Frank Zappa."
         },
         {
             "name": "DREAM POP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/dreampop",
+            "imageURL": "http://radcap.ru/stylegraf/dreampop5.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Dream-pop is an alternative rock style formed in the early 1980s at the junction of post-punk and ethereal. Dream pop is characterized by atmospheric, “dreamy” sound, combined with “airy”, gentle pop melodies. The founders of this style is the Scottish band Cocteau Twins, published on the iconic 4AD label, which later collaborated with many dream-pop bands. In the late 1980s, musical directions such as shugaying and British space rock developed on the basis of dream-pop."
         },
         {
             "name": "J-ROCK (JAPANESE ROCK)",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/jrock",
+            "imageURL": "http://radcap.ru/stylegraf/jrock1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "J-Rock (jap. Dzeirokku, Japanese rock) - a generalized name for the directions of rock music, common in Japan. Often confused with Visual kei, which is incorrect, since the second is a subgenre of the first. It is often used to refer to all directions in Japan as a whole, but sometimes J-metal, J-punk and J-ska are also popular for Japanese groups of these directions."
         },
         {
             "name": "JAZZ ROCK",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/jazzrock",
+            "imageURL": "http://radcap.ru/stylegraf/jazzrock.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Jazz-rock (English - jazz rock). This concept can be attributed to the loudest, fiercest and electrified fusion ensembles from the jazz camp, but more often it describes those performers who are on the fatal side of the equation. Jazz-rock first appeared in the late 60s as an attempt to combine the unbridled power of rock with musical complexity and fiery improvisations of jazz."
         },
         {
             "name": "PROGRESSIVE ROCK",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/progressiverock",
+            "imageURL": "http://radcap.ru/stylegraf/progrock2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Progressive rock (also known as prog rock, progressive and prog, Eng. Progressive rock) is a style of rock music characterized by the complication of musical forms and creative enrichment of rock through dialogue with other areas of musical art (academic music, jazz, folk music (European and eastern) and avant-garde). We can say that in terms of synthesis with other directions, progressive rock for rock music is analogous to fusion for jazz."
         },
         {
             "name": "NOISE ROCK",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/noiserock",
+            "imageURL": "http://radcap.ru/stylegraf/noiserock1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Noise-rock (eng. Noise rock) - a musical genre, style of rock music, referring to its experimental and alternative branches; emerged in the 1980s as a more avant-garde and radical branch of punk rock. Noise-rock was formed as a result of mixing punk with the atonal noise characteristic of early industrial and noise and the use of dissonant guitar sound and (often) unconventional song structure."
         },
         {
             "name": "CROSSOVER PROG",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/crossoverprog",
+            "imageURL": "http://radcap.ru/stylegraf/crossoverprog.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "At its core, Crossover prog is a concession to fashion trends or, more simply, introducing elements of popular music into progressive music. In this case, the music remains with the elements of the program, but uses some simplified forms inherent in pop music. This state of affairs can also be partially regarded as mainstream- a current when the group lost its individuality and became “one of”."
         },
         {
             "name": "PIANO ROCK/POP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/pianorock",
+            "imageURL": "http://radcap.ru/stylegraf/pianorock.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Variety of alternative rock, as well as the style of popular music, which is based on the piano, and sometimes on piano-related keyboard instruments. Traditionally, piano rock, sometimes called “piano pop,” was not as common as classical rock, however, modern artists such as: Keane, The Fray, The Script, Augustana, Coldplay, OneRepublic, Muse contributed to the popularization of the genre."
         },
         {
             "name": "SLOWCORE/SADCORE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/slowcore",
+            "imageURL": "http://radcap.ru/stylegraf/slowcore1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Sedkore (Eng. Sadcore) or Slowcore (Eng. Slowcore) is a sub-style in alternative and indie rock, which is characterized by "slow" melodies with minimalist arrangements, sad or gloomy texts, melancholic, depressive mood."
         },
         {
             "name": "ETHEREAL WAVE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/ethereal",
+            "imageURL": "http://radcap.ru/stylegraf/ethereal1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Ethereal Wave (born ethereal wave is an ethereal wave) or ethereal darkwave, ethereal-goth, and also simply ethereal-sub genre of darkwave, which is characterized differently by “gothic”, “romantic” or “otherworldly” sound. Ethereal appeared in the UK in the early 1980s, as a result of the development of gothic rock, was represented mainly by performers from the label 4AD, such as Cocteau Twins and the early Dead Can Dance."
         },
         {
             "name": "SURF ROCK",
@@ -233,98 +233,224 @@
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "ROCKABILLY",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "STONER ROCK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "AOR/MELODIC HARD ROCK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "ROCK/METAL BALLADS",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "BLUES ROCK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "RUSSIAN PUNK ROCK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "SYMPHONIC ROCK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "SOUTHERN ROCK/METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "POST ROCK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "SHOEGAZING",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "NEO-PROGRESSIVE ROCK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "INDUSTRIAL ROCK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "CHAMBER/BAROQUE/POP/ROCK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "HEAVY PROG",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DARK CABARET",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "PROGRESSIVE FOLK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "SPACE ROCK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "RUSSIAN FOLK ROCK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ALTERNATIVE ROCK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "POP ROCK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "INDIE ROCK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "CLASSIC ROCK/ROCK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "POST PUNK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "POP PUNK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "COUNTRY ROCK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "KRAUTROCK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "INDIE FOLK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "MATH ROCK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "AVANT-PROG/ROCK IN OPPOSITION ",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "(RIO)/CANTERBURY SCENE/ZEUHL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "TWIST",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "PSYCHEDELIC FOLK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
