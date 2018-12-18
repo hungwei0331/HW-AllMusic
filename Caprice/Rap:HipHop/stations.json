@@ -2,294 +2,105 @@
     "station":
     [
         {
-            "name": "",
+            "name": "HIP-HOP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "WEST COAST/GANGSTA RAP/G-FUNK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "INSTRUMENTAL HIP-HOP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "GERMAN/DEUTSCHE HIP-HOP/RAP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "RUSSIAN RAP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "EAST COAST RAP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "JAZZ RAP/JAZZ HOP/JAZZY HIP-HOP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "FRENCH HIP-HOP/RAP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "RAP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "UNDERGROUND RAP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "HARDCORE RAP/HORRORCORE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "UK/BRITISH HIP-HOP/RAP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "ABSTRACT HIP-HOP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "SOUTHERN RAP/HIP-HOP/CRUNK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
+            "name": "MEMPHIS RAP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
