@@ -2,7 +2,280 @@
     "station":
     [
         {
-            "name": "",
+            "name": "UPLIFTING TRANCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ELECTRO HOUSE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "HARDSTYLE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "PROGRESSIVE TRANCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "RUSSIAN CLUB DANCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "GOA TRANCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "LO-FI",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "AMBIENT DUB",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "TECHNO",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "AMBIENT",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ELECTRO",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "SPACESYNTH",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "NEUROFUNK/TECHNOID/TECHSTEP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DRONE AMBIENT",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ELECTROCLASH",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "PUMPING HOUSE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DARK DUBSTEP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "RIDDIM DUBSTEP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "SUOMISAUNDI/FREEFORM PSYTRANCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "NOISE/POWER NOISE/ELECTRONICS",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "EDM TRAP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DETROIT TECHNO/TECH HOUSE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "FOREST PSYTRANCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "EURO HOUSE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "TRADITIONAL ELECTRONIC",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DUB TECHNO",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DREAM TRANCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DEEP/CHILL HOUSE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "IDM (INTELLIGENT DANCE MUSIC)",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "FULL ON",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "TRANCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "CHILL OUT",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "CHIPTUNE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "SOULFUL HOUSE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "INDUSTRIAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DOWNTEMPO",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "GRIME",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "PROGRESSIVE PSYTRANCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ETHNIC ELECTRONICA",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DARK TECHNO",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
@@ -16,259 +289,357 @@
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "WITCH HOUSE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "ACID HOUSE/TRANCE/TECHNO",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "LEFTFIELD",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "FUTURE BASS/CHILL TRAP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "BALEARIC HOUSE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "BIG ROOM HOUSE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "MINIMAL TECH HOUSE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "DARK ELECTRO/AGGROTECH",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "HARDCORE TECHNO/SCHRANZ",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "VOCAL TRANCE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "BREAKBEAT/BIG BEAT",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "EBM (ELECTRONIC BODY MUSIC)",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "PSYBIENT",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "NEW AGE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "LOUNGE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "DARK/NEO/APOCALYPTIC FOLK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "PSYTRANCE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "INDIE ELECTRONIC/NEW RAVE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "HAPPY/UK HARDCORE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "RETROWAVE/SYNTHWAVE/DREAMWAVE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "GLITCH/GLITCH-HOP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "FUTURE GARAGE/CHILLSTEP/DEEPSTEP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "DEATHSTEP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "BROKEN BEAT",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "AMBIENT/INTELLIGENT TECHNO/HOUSE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "MUSIQUE CONCRETE/ACOUSMATIC/ELECTROACOUSTIC",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "FUNKY HOUSE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "JUNGLE/RAGGA JUNGLE/RAGGACORE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "SPACE MUSIC",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "MINIMAL TECHNO",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "DUBSTEP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "DRUM&BASS",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "INDUSTRIAL/DARK/RITUAL AMBIENT",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "TRIP-HOP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "SYNTHPOP/ELECTROPOP/TECHNOPOP",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "HOUSE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "PROGRESSIVE HOUSE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DARK PSYTRANCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "CLUB DANCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "INTELLIGENT/LIQUID FUNK",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ELECTRO-INDUSTRIAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "FUTUREPOP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "HARD TRANCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DRUMSTEP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "METALSTEP/METAL DUBSTEP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "BREAKCORE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "MARTIAL INDUSTRIAL/MILITARY POP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ENIGMATIC/MYSTIC POP",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "TRIBAL HOUSE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "UNDERGROUND TECHNO/TECH HOUSE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "CHILLWAVE/VAPORWAVE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
