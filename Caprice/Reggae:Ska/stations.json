@@ -3,52 +3,52 @@
     [
         {
             "name": "REGGAE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/reggae",
+            "imageURL": "http://radcap.ru/stylegraf/reggae2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Reggae (English reggae; another spelling is “reggae”) is Jamaican popular music that appeared in the 1960s and became popular since the 1970s. The name is sometimes used to name all Jamaican music. Closely related to other Jamaican genres - Rocksteady, Ska, etc."
         },
         {
             "name": "SKA",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/ska",
+            "imageURL": "http://radcap.ru/stylegraf/ska3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Ska (eng. Ska) - musical style that appeared in Jamaica in the late 1950s. The style is characterized by a swinging rhythm of 2/4, when the guitar plays on even drums, and the bass or bass guitar emphasizes the odd ones. The melody is performed by wind instruments such as trumpet, trombone and saxophone. Among the melodies of ska you can find jazz melodies."
         },
         {
             "name": "DUB",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/dub",
+            "imageURL": "http://radcap.ru/stylegraf/dub1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Dub (eng. Dub) - a musical genre that emerged in the early 1970s in Jamaica. Initially, recordings in this genre were reggae songs with remote (sometimes partially) vocals. From the mid-1970s, the dub became an independent phenomenon, considered an experimental and psychedelic reggae variety."
         },
         {
             "name": "SKA PUNK/CORE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/skapunk",
+            "imageURL": "http://radcap.ru/stylegraf/skapunk1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Ska-punk is a transitional musical style that combines elements of Ska and punk rock. Groups trying to mix ska and punk in their work first appeared in the late seventies (The Specials, The Selecter, The Beat). The mixing of these two genres was further developed in the 80s, during the third wave of ska. Ska punk began to gain popularity in the early 1990s in the United States."
         },
         {
             "name": "DANCEHALL/RAGGAMUFFIN",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/dancehall",
+            "imageURL": "http://radcap.ru/stylegraf/dancehall2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Dancehall (born Dance Hall) was developed in the 80s in Jamaica as 'raggamaffin'. The musical structure appeared on the basis of the Riddim reggae rhythm, but it is played much faster."
         },
         {
             "name": "ROCKSTEADY/LOVERS ROCK",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/rocksteady",
+            "imageURL": "http://radcap.ru/stylegraf/rocksteady.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Rocksteady ('rock steady', 'rocksteady') is a musical style that existed in Jamaica and in England in the 1960s. The basis of style is 4/4 Caribbean rhythms, with increased attention to keyboards and guitars."
         },
         {
             "name": "ROOTS REGGAE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/rootsreggae",
+            "imageURL": "http://radcap.ru/stylegraf/rootsreggae.png",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Roots reggae (eng. - Roots reggae) - a style that emerged from the early reggae and rhythm of the Nayabing drums (ritual drum sessions, named after the mythological princess Nayabing) half-drop and rockers began to be used, but one-drop still dominates."
         }
      ]
 }

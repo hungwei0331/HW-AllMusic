@@ -3,185 +3,185 @@
     [
         {
             "name": "OLDIES",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/oldies",
+            "imageURL": "http://radcap.ru/stylegraf/doowop1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Oldies (English Old - Old) - the term usually describes the radio - a format that focuses on music from a period of about 30 - 70 years to the present. In the 1980s and 1990s, “old works” meant these 70 years since the birth of rock and roll. Soon this changed, and some stations chose 1950-1969. In the early 2000s, the music of the 1970s became more and more popular, and also began to be called 'Oldies'."
         },
         {
             "name": "MODERN CLASSICAL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/modernclassical",
+            "imageURL": "http://radcap.ru/stylegraf/modernclass2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Modern (from the French. Moderne, - new, modern) - the name of the style, which was widely used in music of the late XIX beginning of the XX centuries, the main content of which was the desire of musicians to oppose their work to the historicism and eclecticism of the second half of the XIX century - hence the name."
         },
         {
             "name": "VOCAL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/vocal",
+            "imageURL": "http://radcap.ru/stylegraf/vocal555.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Vocal music is music in which the voice dominates or is equal to the instruments, with accompaniment or a cappella. Major genres - musical and dramatic work, oratorio, medium genres - cantata, vocal cycle, liturgy, choral concert, small - vocal miniature (song, romance)."
         },
         {
             "name": "PIANO",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/piano",
+            "imageURL": "http://radcap.ru/stylegraf/piano6.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Piano music is a huge area of ​​musical culture. The beginning of its creation can be considered the second quarter of the XVIII century, when a new keyboard-stringed instrument, the piano, appeared. As long as it was imperfect, works that appeared for piano performance were not much different from those written for clavier and harpsichord, and could be performed on any of these instruments."
         },
         {
             "name": "EXPERIMENTAL/AVANT-GARDE MUSIC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/experimentalmusic",
+            "imageURL": "http://radcap.ru/stylegraf/experimentalmusic1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Experimental Music (Eng. Experimental Music) - music pieces that use unusual instruments or new compositional principles. It is characterized by an unstable aesthetics, which, from the point of view of perspectives and value, is rather vague and controversial."
         },
         {
             "name": "COMPUTER/VIDEO GAME MUSIC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/musicgame",
+            "imageURL": "http://radcap.ru/stylegraf/game3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Soundtrack (eng. Soundtrack, translated into Russian - soundtrack) - musical accompaniment of any material: film, musical, anime, television, computer games, books, and so on; as well as a music album containing songs from this musical accompaniment."
         },
         {
             "name": "TRAILER MUSIC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/trailer",
+            "imageURL": "http://radcap.ru/stylegraf/trailer1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Trailer music (eng. Trailer music, music production) - music, audio tracks, audio products to various areas of cinema."
         },
         {
             "name": "ACOUSTIC GUITAR",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/acousticguitar",
+            "imageURL": "http://radcap.ru/stylegraf/acousticguitar1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Acoustic guitar is a popular plucked stringed musical instrument (in most varieties of 6 strings), the sound of which is due to the oscillation of the strings, amplified by resonating the hollow body. Modern acoustic guitars can have built-in pickups: magnetic or piezoelectric, with an equalizer and volume control. Acoustic guitar is the main instrument of such genres as the author's song, folk, occupies an important place in the gypsy and Cuban folk music, rock, blues and other genres."
         },
         {
             "name": "NEOCLASSICAL MUSIC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/neoclassical",
+            "imageURL": "http://radcap.ru/stylegraf/neoclassicalmusic1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Neoclassicism is a trend in the academic music of the 20th century, whose representatives sought to revive the stylistic features of early classical and pre-classical music. The greatest development reached in the 1920s - 1930s."
         },
         {
             "name": "SOUNDS OF NATURE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/soundnat",
+            "imageURL": "http://radcap.ru/stylegraf/soundsnat3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The clinking whisper of snow on the metal roof, the panting of my dog, the scrape of my own footfalls—the only sounds in a place."
         },
         {
             "name": "SAXOPHONE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/saxophone",
+            "imageURL": "http://radcap.ru/stylegraf/saxophone.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "At the end of the 19th century, a new musical style was born in the USA - jazz, and the saxophone almost immediately became one of its main instruments. The specific sound of the instrument and the enormous expressive possibilities were the best suited for this style. Around 1918, in the words of one of the critics, the country was overwhelmed by “saxophone”."
         },
         {
             "name": "MISC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/misc",
+            "imageURL": "http://radcap.ru/stylegraf/misc2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Music is an art form whose artistic material is sound, organized in a special way in time."
         },
         {
-            "name": "ВОЕННЫЕ ПЕСНИ/МАРШИ РОССИИ",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "MILITARY SONGS / MARSHI OF RUSSIA",
+            "streamURL": "http://79.111.119.111:8002/rusmilsong",
+            "imageURL": "http://radcap.ru/stylegraf/rusmilsong.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "A military song as a specific type of musical - poetic creativity was born with the birth of the ancient Russian state. The entire history of a military song is inseparable from the history of a state’s development, from its ideology, from its moral spirit. The state of a military song is largely determined by the political sphere of the state, and first of all by the wars in which the state participated in one way or another."
         },
         {
             "name": "ANIME OST/SCORE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/anime",
+            "imageURL": "http://radcap.ru/stylegraf/anime2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Anime (from the English. Animation - animation) - Japanese animation. Unlike other countries cartoons, mainly intended for viewing by children, most of the produced anime is designed for teenagers and adults, and this is largely due to its high popularity in the world. Anime has a distinctive style of drawing characters and backgrounds. It is published in the form of television series, as well as films distributed on video media or intended for film screenings."
         },
         {
             "name": "HAMMOND ORGAN",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/hammond",
+            "imageURL": "http://radcap.ru/stylegraf/hammond2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Hammond Organ (eng. Hammond organ) is an electromechanical musical instrument (electric organ) that was designed and built by Lawrence Hammond in April 1935. Initially, Hammond organs were sold to churches as an inexpensive alternative to wind organs, but the instrument was often used in blues, jazz, rock and roll (1960s and 1970s) and gospel."
         },
         {
             "name": "MEDITATION MUSIC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/meditation",
+            "imageURL": "http://radcap.ru/stylegraf/meditation.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Meditation music (Eng. Meditation music) - music that is intended for use in various meditation practices of a purely religious and non-confessional nature. Meditation (or 'meditative') is also called music, which disposes listeners to deep-seated introspection."
         },
         {
             "name": "BALLROOM DANCE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/ballroomdance",
+            "imageURL": "http://radcap.ru/stylegraf/ballroomdance1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The term 'ballroom dancing' (eng. - Ballroom Dance) refers to a pair of non-professional secular dances that originated in medieval Europe. These dances were very strongly modified: any epoch of European history - Renaissance, Enlightenment, Classicism, Romanticism, - gave rise to a kind of dance complex. Throughout European cultural development, a wide variety of ethnic sources as well as professional dance have influenced ballroom dance."
         },
         {
             "name": "INSTRUMENTAL MUSIC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/instrumental",
+            "imageURL": "http://radcap.ru/stylegraf/instrumental.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Instrumental music - music played on instruments without the participation of the human voice. There are solo, ensemble and orchestral instrumental music. Widely distributed in classical music, jazz, electronic music, new age, post-rock, etc."
+        },
+        {
+            "name": "POETRY",
+            "streamURL": "http://79.120.77.11:8002/poetryru",
+            "imageURL": "http://radcap.ru/stylegraf/poetry1.jpg",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "ПОЭЗИЯ",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "ACCORDION/BAYAN/HARMON",
+            "streamURL": "http://79.111.119.111:8002/accordion",
+            "imageURL": "http://radcap.ru/stylegraf/accordeon1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "ACCORDION/БАЯН/ГАРМОНЬ",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The accordion is a reed-type keyboard-pneumatic musical instrument with a full chromatic scale on the right keyboard, bass and ready (chord) or ready-chosen accompaniment on the left. A modern kind of manual harmonica. In 1829, this name was given by the Viennese organ master K. Demian to an improved harmonica."
         },
         {
             "name": "INDIAN CINEMA MUSIC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/indiancinema",
+            "imageURL": "http://radcap.ru/stylegraf/indiancinema.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "India’s film production leads the world in the number of feature films produced. In the Indian film industry, there is a tradition to include five or six songs in the sound range of almost every film."
         },
         {
             "name": "RELAXATION MUSIC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/relaxation",
+            "imageURL": "http://radcap.ru/stylegraf/relax2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Music for relaxation (born Relaxation music) - as well as meditative, is mainly instrumental. The concepts of 'meditation' and 'relaxation' as two sides of one process. If meditation is similar to active work on your own being, then relaxation reminds of its passive phase."
         },
         {
             "name": "FLUTE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/flute",
+            "imageURL": "http://radcap.ru/stylegraf/flute3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Flute (English flute) is a common name for a number of musical wind instruments from the woodwind group. It is one of the most ancient musical instruments of origin. Unlike other wind instruments, flute sounds are generated as a result of cutting the air flow on the edge, instead of using the tongue. A flute-playing musician is usually referred to as a flutist."
         },
         {
             "name": "EASY LISTENING",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/easylistening",
+            "imageURL": "http://radcap.ru/stylegraf/easylistening2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Light music (Easy listening) is a term in pop music, covering different styles, for which simple, light and catchy melodies are common, performed, as a rule, to the accompaniment of a variety orchestra: it is no coincidence that a lot of “light music” compositions are instrumental processing famous hits."
         },
         {
             "name": "ROMANTIC MUSIC COLLECTION",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/romantic",
+            "imageURL": "http://radcap.ru/stylegraf/romantic.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Romantic music (not to be confused with classical music of the period of romanticism) - for the most part, any music that causes romantic emotions. It can be feelings of nostalgia, bright sadness, pleasant memories and of course love and tenderness. As a rule, slow, spiritual compositions prevail in this large musical cut."
         },
         {
             "name": "EROTIC MUSIC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/erotic",
+            "imageURL": "http://radcap.ru/stylegraf/ero3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Erotic music is a rather ambiguous term, since there cannot be absolutely identical preferences, especially in such a delicate matter. But one thing is sure, this music brings together, awakens and relaxes, helps to tune in a certain way, creates the appropriate atmosphere."
         }
      ]
 }
