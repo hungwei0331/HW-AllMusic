@@ -3,108 +3,108 @@
     [
         {
             "name": "HIP-HOP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/hiphop",
+            "imageURL": "http://radcap.ru/stylegraf/hiphop2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Hip hop (eng. Hip hop) is a cultural movement that originated in the working class environment of New York on November 12, 1974. DJ Afrika Bambaataa was the first to identify five pillars of hip hop culture: essing (eng. MCing), DJing (eng. DJing) , breaking (born breaking), graffiti (eng. graffiti writing), and knowledge (a certain philosophy). Other elements include beatboxing, hip-hop fashion and slang."
         },
         {
             "name": "WEST COAST/GANGSTA RAP/G-FUNK",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/gangstarap",
+            "imageURL": "http://radcap.ru/stylegraf/wcoast.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "West Coast hip hop (also known as West Coast rap) is one of the styles of hip hop music that appeared in the early 1980s in California. Since then, the style has been transformed into several subgenres and continues to evolve in our days."
         },
         {
             "name": "INSTRUMENTAL HIP-HOP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/instrumentalhiphop",
+            "imageURL": "http://radcap.ru/stylegraf/instrumentalhiphop1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "In hip-hop music, the term “instrumental” (or “Beat” from the English. Beat-beat, rhythm) refers to the musical basis of a rap song on which a recitative is imposed. In modern foreign hip-hop, releases of albums with instrumentalists of well-known rap songs or of the entire album (Jaylib-Champion Sound (Instrumentals) (2003)) are common."
         },
         {
             "name": "GERMAN/DEUTSCHE HIP-HOP/RAP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/germanhiphop",
+            "imageURL": "http://radcap.ru/stylegraf/germanrap.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Germanic / German Hip-Hop / Rap (eng. German / Deutsche Hip-Hop / Rap) refers to hip-hop music produced and produced in Germany. The whole world is familiar with German music performers in such areas as classical, rock and pop. But do not overlook the work of German rap artists."
         },
         {
             "name": "RUSSIAN RAP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/rapru",
+            "imageURL": "http://radcap.ru/stylegraf/rapru3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Russian rap is a Russian musical genre, which arose under the influence of Western music and combines elements of rap and hip-hop. Today, the most advanced performers of rap in Russia are the groups: “CENTR”, “AK-47”, “Casta”, “TGC” and others. Also of great popularity are performers and groups, which recently began their careers."
         },
         {
             "name": "EAST COAST RAP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/eastcoastrap",
+            "imageURL": "http://radcap.ru/stylegraf/eastcoastrap.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "East Coast hip hop (born East Coast hip hop), also known as East Coast rap (born East Coast rap) is one of the genres of hip hop music that appeared and began to develop in New York in the middle of 1970- x East Coast Hip Hop is noted as the first form of hip hop. Since then, this style has become a major sub-genre of hip-hop, and played an important role in its history."
         },
         {
             "name": "JAZZ RAP/JAZZ HOP/JAZZY HIP-HOP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/jazzrap",
+            "imageURL": "http://radcap.ru/stylegraf/jazzrap2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Jazz rap (eng. Jazz rap) - the direction of hip-hop music, formed in the late 1980s. Bits in jazz rap are jazz samples; texts are positivistic. At one time, Allmusic magazine wrote about jazz rap as a completely new milestone in the development of African American music."
         },
         {
             "name": "FRENCH HIP-HOP/RAP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/frenchhiphop",
+            "imageURL": "http://radcap.ru/stylegraf/frenchrap.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "French hip-hop / rap (eng. French Hip-Hop / Rap) is a separate continent in the ocean of hip-hop. Standing apart, free from influence and completely self-sufficient. Even people who are not like Russian or American rap in any way are often happy to receive French recitatives and branded melodic instrumentals. Someone believes that the secret of the fascination of French rap in the unique phonetics of this language."
         },
         {
             "name": "RAP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/rap",
+            "imageURL": "http://radcap.ru/stylegraf/rap.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Rap (born rap, rapping) - rhythmic recitative, usually read to music with a heavy beat. The rap artist is called the rapper, or the more general term MC. Rap is one of the basic elements of hip-hop style music; often used as a synonym for hip-hop. However, rap is used not only in hip-hop music, but also in other genres. Many drum and bass artists use rap."
         },
         {
             "name": "UNDERGROUND RAP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/undergroundrap",
+            "imageURL": "http://radcap.ru/stylegraf/undergroundrap.png",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Underground rap can be divided into two categories. This is either a hard hip-hop, pushing the musical boundaries and having thoughtful lyrics that go beyond the gangsta cliché, or it is a hard gangsta rap that incorporates all the musical and textual stereotypes of this trend."
         },
         {
             "name": "HARDCORE RAP/HORRORCORE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/hardcorerap",
+            "imageURL": "http://radcap.ru/stylegraf/hardcorerap.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Hardcore hip hop, also known as hardcore rap sub-genre of hip hop, formed in the late 1980s. Hardcore rap is characterized by heavy beats, very noisy samples and chaotic sound recording. The manner of execution is close to gangsta rap, however, the texts may contain even tougher and coarse motives of street life (violence, fighting, drug addiction, profanity) than in gangsta rap. Sometimes (but not so often) there are texts of humorous content."
         },
         {
             "name": "UK/BRITISH HIP-HOP/RAP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/ukhiphop",
+            "imageURL": "http://radcap.ru/stylegraf/ukrap.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "English / British Hip-Hop / Rap (UK / British Hip-Hop / Rap) is a musical style that originated in the second half of the 1980s, in the UK. Despite the fact that British rap is not widely spread outside of Great Britain and Europe, this subgenre of Hip-Hop music has its own history, traditions and sound style inherent only to him. Nevertheless, in this direction of hip-hop, it is rather difficult to find the legacy of American Hip-Hop himself, however, most rappers grew precisely on the compositions of Ragga Jungle, and later introduced the established traditions to local British rap."
         },
         {
             "name": "ABSTRACT HIP-HOP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/abstracthiphop",
+            "imageURL": "http://radcap.ru/stylegraf/abstracthiphop1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Abstract hip-hop (born abstract hip-hop) is a subgenre of alternative hip-hop and differs from the rest of hip-hop music, mainly in the sense laid down in the lyrics. As the absolute opposite of gangsta rap, in which the recitative is usually based on stories about life in poor urban neighborhoods and real or fictional stories from gang life, abstract hip hop talks about topics that usually have no direct connection to the hip hop subculture."
         },
         {
             "name": "SOUTHERN RAP/HIP-HOP/CRUNK",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/southernrap",
+            "imageURL": "http://radcap.ru/stylegraf/southernrap.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Southern rap (English Southern rap), also known as Southern hip hop (English Southern hip hop) and Dirty South (Russian "Abusive South") is one of the hip-hop subgenres that originated in the Southern USA, including New Orleans (Louisiana), Houston (Texas), Atlanta (Georgia), Memphis (Tennessee) and Miami (Florida)."
         },
         {
             "name": "MEMPHIS RAP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/memphisrap",
+            "imageURL": "http://radcap.ru/stylegraf/memphisrap3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Memphis Rap, also known as Memphis hip-hop is a regional sub-genre of hip-hop music, which was created in Memphis, Tennessee in the 90s. Distinctive features of the genre have become reuse of samples and Lo-Fi sound. This subgenre often used the drum machine Roland TR-808, double-reading and samples of music in different directions, ranging from soul and ending with funk."
         }
      ]
 }
