@@ -2,231 +2,511 @@
     "station":
     [
         {
-            "name": "",
+            "name": "PAGAN METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "NEOCLASSICAL METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "SYMPHONIC BLACK METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "DEATHCORE/MELODIC DEATHCORE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "GROOVE METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "SYMPHONIC METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "DEATH DOOM METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "DARK METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "DOOM METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "POST METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "CRUST PUNK/NEOCRUST",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "PROGRESSIVE BLACK/POST-BLACK/BLACKGAZE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "GOTHIC DOOM METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "PROGRESSIVE POWER METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "NWOBHM",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "NEUE DEUTSCHE HÄRTE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "SYMPHONIC DEATH METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "HARDCORE PUNK",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "BLACK METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "DEATH METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "PROGRESSIVE DEATH METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "NU METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "RAPCORE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "SLUDGE METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "POWER METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "METALCORE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "POST HARDCORE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "BLACK/BLACKENED DEATH METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "INSTRUMENTAL METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "GRINDCORE/DEATHGRIND",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "AVANT-GARDE/EXPERIMENTAL METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "MELODIC METALCORE",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
             "longDesc": ""
         },
         {
-            "name": "",
+            "name": "HEAVY POWER METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "MELODIC HEAVY METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "SYMPHONIC POWER METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "SYMPHONIC GOTHIC METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "MATHCORE/CHAOTIC HARDCORE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "PROGRESSIVE METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "HEAVY METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "HARDCORE/MELODIC HARDCORE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "FOLK METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "GOTHIC METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "STONER METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "THRASH METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "BRUTAL/SLAMMING BRUTAL DEATH",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "SPEED METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DRONE/DRONE DOOM METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "EMOCORE/SCREAMO/EMO VIOLENCE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ORIENTAL METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ELECTRONICORE/TRANCECORE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "PROGRESSIVE METALCORE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "EPIC METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "MELODIC POWER METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "PROGRESSIVE HEAVY METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "CROSSOVER THRASH",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "FUNERAL DOOM METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "DEPRESSIVE BLACK METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "VIKING METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "INDUSTRIAL/CYBER METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ALTERNATIVE METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "MELODIC DEATH METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "TECHNICAL DEATH METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "MELODIC BLACK METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "ATMOSPHERIC/AMBIENT BLACK ",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "METAL/DUNGEON SYNTH",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "MATH METAL/DJENT",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "FEMALE VOCAL IN METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "BLACK/BLACKENED DOOM METALB",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "BEATDOWN/MOSHCORE/DOWNTEMPO",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "HARDCORE/METALCORE",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "THRASH DEATH METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "THRASH HEAVY METAL",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "CAPRICE",
+            "longDesc": ""
+        },
+        {
+            "name": "TRASH BLACK METAL",
             "streamURL": "",
             "imageURL": "",
             "desc": "CAPRICE",
