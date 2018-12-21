@@ -129,101 +129,101 @@
         },
         {
             "name": "BLACK METAL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/blackmetal",
+            "imageURL": "http://radcap.ru/stylegraf/blackmetal.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Black metal (English black metal; Russian black metal; norv. Svartmetall), or simply black, is a musical style, one of the extreme metal directions. The genre originated in the 1980s as a branch of thrash metal. The pioneers of black metal are considered to be the English group Venom and the Swedish Bathory. "
         },
         {
             "name": "DEATH METAL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/deathmetal",
+            "imageURL": "http://radcap.ru/stylegraf/deathmetal3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Death metal (also det; English death metal, from death - “death”) is an extreme subgenre of metal. Having absorbed the speed and complexity of the performance of thrash metal, death metal first separated into a separate subgenre of this trend (it is sometimes called a proto-death), and then into an independent genre in the mid-1980s."
         },
         {
             "name": "PROGRESSIVE DEATH METAL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/progdeath",
+            "imageURL": "http://radcap.ru/stylegraf/progdeath.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Progressive death metal is a subgenre of death metal, focused on complex rhythms, riffs and structures. Phill Freeman, ex-editor of Metal Edge, describes this sub-genre as 'a hidden side that has more in common with prog-rock and jazz than with mechanical satanic swotting that prevail in the public view of such music.' Experiments inside the death metal movement began in the late 1980s with the work of Death, Atheist and Cynic."
         },
         {
             "name": "NU METAL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/numetal",
+            "imageURL": "http://radcap.ru/stylegraf/numetal8.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Nu metal (eng. Nu metal) (also known as neo metal, new metal) is a subgenre of alternative rock. It is a fusion of heavy metal elements with such styles as grunge, hardcore punk, hip-hop. This genre was one of the most popular in the late 1990s and early 2000s."
         },
         {
             "name": "RAPCORE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/rapcore",
+            "imageURL": "http://radcap.ru/stylegraf/rapcore.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Rapcore (or punk rap) is a genre of alternative rock music, characterized by using rap (recitative) as vocals. Rapcore combines the instrumental and vocal properties of areas such as punk rock, hardcore and hip hop."
         },
         {
             "name": "SLUDGE METAL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/sludgemetal",
+            "imageURL": "http://radcap.ru/stylegraf/sludgemetal.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Sludge Metal (eng. Sludge metal) is a musical genre, at the junction of thought and hardcore punk; kind of metal punk. It originated in the south of the United States in the early 1990s, not without the influence of the reviving Saturn Rock. The genre is characterized by heavy, aggressive sound, “screaming” hardcore vocals and sharply contrasting tempos."
         },
         {
             "name": "POWER METAL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/powermetal",
+            "imageURL": "http://radcap.ru/stylegraf/powermetal.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Power metal (English power metal, from the English. Power chord - a chord of sounds in the fifth and octave) - one of the directions of metal that took shape in the second half of the 80s of the XX century."
         },
         {
             "name": "METALCORE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/metalcore",
+            "imageURL": "http://radcap.ru/stylegraf/metalcore4.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Metalcore is a subgenre of rock music, formed due to the mixing of various genres of metal and hardcore punk. Accordingly, from these genres, he received the name. The term in its current sense, appeared in the early 1990s, to describe the work of groups such as Earth Crisis, Deadguy and Integrity. The oldest of these groups appeared in 1988."
         },
         {
             "name": "POST HARDCORE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/posthardcore",
+            "imageURL": "http://radcap.ru/stylegraf/posthardcore.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Posthardcore (from English Post-hardcore) is a sub-genre of hardcore punk that emerged in the mid-to-late 1980s with the advent of releases in the Midwest USA. These include bands on SST Records, and bands from Washington, such as Fugazi (see, for example, releases from the Dischord Records era), as well as slightly different bands, such as Big Black and Jawbox, which are closer to noise-rock roots. post-hardcore."
         },
         {
             "name": "BLACK/BLACKENED DEATH METAL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/blackdeath",
+            "imageURL": "http://radcap.ru/stylegraf/blackdeath2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Black death metal (English black / death metal, blackened death metal) is a border style that incorporates elements of black metal and death metal. There are guitar tremolo and blast beats, characteristic of black metal, technical playing of percussion instruments and guitars, typical of death metal. Growing is often the vocals. The theme of the texts, as in black, is anti-religious or occult."
         },
         {
             "name": "INSTRUMENTAL METAL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/instrumentalmetal",
+            "imageURL": "http://radcap.ru/stylegraf/instrmetal2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Instrumental metal (English. Instrumental metal) - heavy music, not directly related to any particular metallore. Perhaps the main common feature in such compositions is the lack of vocals and vocals. And terms such as 'Guitar Virtuoso' and 'Neoclassical Metal' should not be unconditionally categorized as instrumental metal in genera."
         },
         {
             "name": "GRINDCORE/DEATHGRIND",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/grindcore",
+            "imageURL": "http://radcap.ru/stylegraf/grindcore.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Grindcore (also known as 'Grind' English. Grindcore) - an extreme direction of rock music, originally resulting from the mixture of crust-punk and thrash-playing. Also a role was played by the influence of metal. The name comes from the word English. grind - “grind” (because of the sound built on atonal riffs, “grinding”, “grinding”, passing from one to another)."
         },
         {
             "name": "AVANT-GARDE/EXPERIMENTAL METAL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/avantgardemetal",
+            "imageURL": "http://radcap.ru/stylegraf/avantmetal4.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Avant-garde metal (English avant-garde metal) is one of the metal styles that incorporates elements of progressive, symphonic, folklore, industrial, black metal and some other metal subgenres. Differs in a large number of musical experiments with sounds, instruments and structure of songs."
         },
         {
             "name": "MELODIC METALCORE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/melodicmetalcore",
+            "imageURL": "http://radcap.ru/stylegraf/melodicmetalcore.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "In the early 2000s, a second wave of metalcore groups began to form. The distinguishing feature of these bands was a much stronger emphasis on the melodiousness of the music and a marked affinity with the post-hardcore groups."
         },
         {
             "name": "HEAVY POWER METAL",
