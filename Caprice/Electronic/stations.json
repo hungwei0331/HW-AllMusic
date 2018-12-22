@@ -171,178 +171,178 @@
         },
         {
             "name": "EURO HOUSE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/eurohouse",
+            "imageURL": "http://radcap.ru/stylegraf/eurohouse3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Eurohouse (English-eurohouse) is a style of dance music that includes almost all the subgenres of club music of the 80s-90s. It features a pronounced melody, traditional rhythm for house and vocal presence. This branch came in the early 90s, when a wave of commercial music swept Europe. Just like in the 80s disco was called typical club music, in the 90s a direction was formed, the sole purpose of which was to make people dance."
         },
         {
             "name": "TRADITIONAL ELECTRONIC",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/tradelectronic",
+            "imageURL": "http://radcap.ru/stylegraf/traditionalelectronic1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Electronic music (from him. Elektronische Musik, English Electronic music, in common parlance is also “electronics”) is a wide musical genre denoting music created using electronic musical instruments and technologies (most often with the help of special computer programs). Although the first electronic instruments appeared at the beginning of the 20th century, electronic music as an independent genre was established in the second half of the 20th century - the beginning of the 21st century and today includes dozens of varieties in its vast genre-style spectrum."
         },
         {
             "name": "DUB TECHNO",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/dubtechno",
+            "imageURL": "http://radcap.ru/stylegraf/dubtechno6.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Dub-Techno (eng. Dub-Techno) is a dubtronic sub-style that combines a bit of minimal techno, a rhythmic “atmospheric” ambient sound, and a reverb inherent in dub music. For dub-techno is characterized by the fact that a large number of releases are issued on no-labels and distributed under Creative Commons licenses. Deep bass, dotted line marked rhythm, synth chord, mass echo. The rhythm is quite simple, it’s still reggae techno, but it’s not just “decent”, it’s downright aristocratic. Restrained romantic melancholy."
         },
         {
             "name": "DREAM TRANCE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/dreamtrance",
+            "imageURL": "http://radcap.ru/stylegraf/dreamtrance3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Dream trance, also known as Dream House, sometimes also called Dream Dance, is one of the earliest trance genres. Also applies to house subgenres, due to the vague boundaries between house and trance at the time. The Dream Trance genre was most popular between 1993 and 1998."
         },
         {
             "name": "DEEP/CHILL HOUSE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/deephouse",
+            "imageURL": "http://radcap.ru/stylegraf/deephouse1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Deep House (English deep house) is a style of electronic dance music that appeared at the junction of the “old” Chicago house and gospel. The birth of this style is usually attributed to the end of the 1980s. Includes elements of soul music (80s), jazz, funk and Detroit techno. "
         },
         {
             "name": "IDM (INTELLIGENT DANCE MUSIC)",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/idm",
+            "imageURL": "http://radcap.ru/stylegraf/idm2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "IDM (Eng. Intelligent Dance Music) - the symbol for some styles of electronic music that do not fit into the traditional framework. The founders of the genre are considered to be such artists as Autechre and Aphex Twin (Richard D. James), whose musical experiments led to the birth of a new style rich in unexpected finds."
         },
         {
             "name": "FULL ON",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/fullon",
+            "imageURL": "http://radcap.ru/stylegraf/fullon.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Full-on (or full on) or melodic psytrance (other names: morning trance, club psytrance and Isra-trance) is a trance music style, a form of psychedelic trance that first appeared in Israel in the late 90s, and became popular in the world thanks to the musicians: Astrix, Cosma, Sirius Isness, Electric Universe, Hypersonic, etc."
         },
         {
             "name": "TRANCE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/trance",
+            "imageURL": "http://radcap.ru/stylegraf/trance.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Trance (English trance) is a style of electronic dance music that developed in the 1990s. Distinctive features of the style are: tempo from 135 to 145 beats per minute, the presence of repetitive melodies, phrases and musical forms."
         },
         {
             "name": "CHILL OUT",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/chillout",
+            "imageURL": "http://radcap.ru/stylegraf/chillout4.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Chill-out (from the English. Chillout, Chill out music) - the style of electronic music, whose name comes from the English slang to chill out - cool down, relax. The chill-out originated in the early 1990s was relatively sustained and slow."
         },
         {
             "name": "CHIPTUNE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/chiptune",
+            "imageURL": "http://radcap.ru/stylegraf/chiptune2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Chiptyun (eng. Chiptune) - music, in which sound is synthesized by a real-time audio chip by a computer or game console, usually from early generations, and not by a set of musical samples recorded from audio devices. Chiptyun is flourishing in the mid-1980s - mid-1990s, with sound chips appearing in first home computers, such as Commodore 64, ZX-Spectrum, etc. plus a noise channel."
         },
         {
             "name": "SOULFUL HOUSE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/soulfulhouse",
+            "imageURL": "http://radcap.ru/stylegraf/soulfilhouse.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The trends of the 'Soulful House' style are not constant and change literally over the years. However, the base is always a straight house rhythm with a rhythmic 4/4 pattern and, of course, vocals, which can be either in the form of full-fledged songs with verses and choruses, or with repetitive short vocal samples."
         },
         {
             "name": "INDUSTRIAL",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/industrial",
+            "imageURL": "http://radcap.ru/stylegraf/industrial.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Industrial (from the English. Industrial - "industrial") - musical direction, characterized by a pronounced experimental and special aesthetics of mechanical and other industrial sounds. If you look deeper into the history of this style, you can see that already in 1913 in the work of futurist Luigi Roussolo “L'arte dei rumori” known musical group) some elements of modern industrial ideology are traced. Erik Sati, Pierre Schaeffer and other representatives of futurism also made a great contribution to the development of the ideological basis."
         },
         {
             "name": "DOWNTEMPO",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/downtempo",
+            "imageURL": "http://radcap.ru/stylegraf/downtempo4.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Downtempo (English downtempo - low tempo) or downbeat (downbeat) - style in modern electronic music. Music is characterized by a slow rhythm, often broken. The “brokenness” of the rhythm is achieved by shifting the strong beat to the weak (syncopating) or by simultaneously combining two or more independent rhythms (polyrhythm)."
         },
         {
             "name": "GRIME",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/grime",
+            "imageURL": "http://radcap.ru/stylegraf/grime.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Grime (Eng. Grime) - a musical genre that emerged in the early 2000s in East London (East End) at the junction of Garage and hip-hop. Initially, the term grime, bearing a derogatory shade (grime - dirt), meant a poor quality of Gerridge from producers from poor regions who wrote their music using the “basic packages” of such programs for personal computers as FruityLoops and Reason, as well as on cheap grooves or all on game consoles."
         },
         {
             "name": "PROGRESSIVE PSYTRANCE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/psyprog",
+            "imageURL": "http://radcap.ru/stylegraf/psyprog.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Progressive psitrans (English Progressive psytrance, Psy-prog, Psy progressive) is a sub-style of electronic music of the trance genre. It is a fusion of progressive and psychedelic trance. Along with the musical progressions that are present in the melody of progressive trance songs, elements of psi trance are added to the musical structure of the composition. These are primarily the hypnotic elements of psychedelia in transmuseum. "
         },
         {
             "name": "ETHNIC ELECTRONICA",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/ethnotronica",
+            "imageURL": "http://radcap.ru/stylegraf/ethnotronica.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Ethno-electronics (eng. Ethnic Electronica) is a musical direction combining elements of electronic and ethnic music, and developing in the 1990s and 2000s. The term ethno-electronics is relatively new, it is sometimes used in the press and regularly in online music forums, and in 2003 the compilation 'Another Life: A Journey Into Ethnic Electronica' (Love Cat Music, 'Other Life: Traveling in Ethnic electronics'."
         },
         {
             "name": "DARK TECHNO",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/darktechno",
+            "imageURL": "http://radcap.ru/stylegraf/darktechno2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
-        },
-        {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Dark techno (English dark techno, dark techno, black techno (black techno), horror techno (horror techno), horror tech (horror tech)) - electronic music style - subgenre techno. A leisurely pace and dark beginnings are a brief description of a subgenre. Probably better to listen, and everyone will have their own assessment. It is not possible to clearly identify this style as all TECHNO."
         },
         {
             "name": "WITCH HOUSE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/witchhouse",
+            "imageURL": "http://radcap.ru/stylegraf/witchhouse6.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Witch House (eng. Witch house) - a genre of electronic and experimental music. The title for the first time in 2009 applied Travis Eghedi (known as Pictureplane) to describe the occult-oriented style of music created by him and his friends. A witch house should not be confused with a dark house (although both terms are replaceable today) - an offshoot in a progressive house that existed in 2000-2001. "
         },
         {
             "name": "ACID HOUSE/TRANCE/TECHNO",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/acid",
+            "imageURL": "http://radcap.ru/stylegraf/acid.png",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Acid House (born acid house) (translated from English - “acid warehouse”, from “acid” and the club Warehouse) - electronic music style, belonging to the category of house music. Acid House first appeared in the mid-1980s, when Chicago musicians DJ Pierre, Adonis, Kate Williams (better known as Farley Jackmaster Funk) and others began to mix house elements with heavy music and bass lines played on a Roland TB- synthesizer303."
         },
         {
             "name": "LEFTFIELD",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/leftfield",
+            "imageURL": "http://radcap.ru/stylegraf/leftfield1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Leftfield is a generic term for unclassifiable underground electronics. Roughly speaking, “Leftfield” is an analogue of the “post-” prefix in electronic music. That is, formally, the field record can still be attributed to hip-hop or house, but for the author himself all this does not have a drop of meaning, the main thing is the search for new sound and freedom of expression."
         },
         {
             "name": "FUTURE BASS/CHILL TRAP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/futurebass",
+            "imageURL": "http://radcap.ru/stylegraf/futurebass.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Future Bass (English Future Bass) is a style of music that combines new sounds in base music and has a characteristic sound principle. Future base grew out of New York hip-hop, but gained characteristic modern signs only in the late 2000s - early 2010s. The first number among the tracks of this kind was DMX - Party Up."
         },
         {
             "name": "BALEARIC HOUSE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/balearichouse",
+            "imageURL": "http://radcap.ru/stylegraf/balearichouse.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Balearic House (born Balearic House) or balearik-style electronic music. It was originally a combination of the main directions of dance music from DJs, which appeared in the mid-1980s. Later he became the name of a more specific style. Some dance music compilations refer to the “sounds of Ibiza”, although on the island you can hear many other more aggressive and rhythmic forms of dance music."
         },
         {
             "name": "BIG ROOM HOUSE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/bigroomhouse",
+            "imageURL": "http://radcap.ru/stylegraf/bigroomhouse.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Big Room House (from the English. Big room- 'big room (room, hall)') is a subgenre, the most popular in the first half of the 2010s. It takes its sound sources from electro-progressive with elements of the tribal, but the main characteristic of the big room is minimization of instrumentation and the creation of consonant syncation using synthesizers."
+        },
+        {
+            "name": "HARD HOUSE",
+            "streamURL": "http://79.111.119.111:8002/hardhouse",
+            "imageURL": "http://radcap.ru/stylegraf/hardhouse3.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Hard House is a style of electronic dance music that appeared in the 1990s and represents a fairly rigid variation of the house. It is characterized by the use of minimalistic elements, as well as hard bits 4x4. "
         },
         {
             "name": "MINIMAL TECH HOUSE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/mintechhouse",
+            "imageURL": "http://radcap.ru/stylegraf/mintechhouse.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Tech House (born Tech house) is a stylistic trend in electronic music, located at the junction of techno and house music, which can be represented as 'rhythmic techno'. This direction originated in the early nineties and, like the progressive house. English DJs like Mr. C, Eddie Richards (English Eddie Richards) and Terry Francis (English Terry Francis) in their mixes combined the traditional structure of house music with dub versions of garage tracks and hard variations on the theme of Detroit techno."
         },
         {
             "name": "DARK ELECTRO/AGGROTECH",
