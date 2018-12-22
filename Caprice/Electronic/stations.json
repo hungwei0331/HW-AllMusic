@@ -3,164 +3,171 @@
     [
         {
             "name": "UPLIFTING TRANCE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/upliftingtrance",
+            "imageURL": "http://radcap.ru/stylegraf/upliftingtrance1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Uplifting trance (from English Uplift - “rise”) is a modern sub-style of the trance music genre. The name of this style can be explained by the fact that in musical compositions corresponding to this direction, there are high-octave melodies that sound very subtle, easy and beautiful (melodious), such compositions seem to “soar” in the imagination of the listener and are most positively emotional."
         },
         {
             "name": "ELECTRO HOUSE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/electrohouse",
+            "imageURL": "http://radcap.ru/stylegraf/electrohouse.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Electro House (born electro house) is a style variation of house music located at the junction of progressive house and electroclash. The emergence and flowering of such a style of electronic music as electroklash in the late 1990s, after the revival of electro, contributed to the emergence of the electric house."
         },
         {
             "name": "HARDSTYLE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/hardstyle",
+            "imageURL": "http://radcap.ru/stylegraf/hardstyle.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Hardstyle (born hardstyle - 'hard style') emerged in the late 90s from the direction of techno as a subtype of this style. In the future, weighted techno is mixed with the hard-trance bass and synthesizer line, resulting in a more rigid sound, which sounded almost like hardcore techno."
         },
         {
             "name": "PROGRESSIVE TRANCE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/progtrance",
+            "imageURL": "http://radcap.ru/stylegraf/progtrance.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Progressive trance (progressive trance) - a sub-style of musical trance style. The name of the genre is explained by the fact that the musical compositions belonging to this genre contain so-called progressions, that is, many special effects, complexly worked drums, which, together with the constantly developing melody, create the feeling that the track develops and progresses, rather than repeating, like in many other trance substrates. The typical progressive trance rate is 128-140 beats per minute."
         },
         {
             "name": "RUSSIAN CLUB DANCE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/clubru",
+            "imageURL": "http://radcap.ru/stylegraf/clubru.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Electronic music was previously associated only with Western academic music, but this changed with the advent of affordable electronic synthesizers in the late 60s. Due to its moderate cost, the synthesizers have become available not only to large recording studios, but also to the general public."
         },
         {
             "name": "GOA TRANCE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/goatrance",
+            "imageURL": "http://radcap.ru/stylegraf/goa4.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The name Goa trance appeared around 1994, and in 1996 it was replaced by the term Psychedelic trance. By 1996–1997, the trans-movement reached the peak of its development (many record labels, distributors, festivals). Mass information realized the emergence of this phenomenon - the first DJ stars appeared. The Israeli trance scene has reached a special development, becoming the second birthplace of trance."
         },
         {
             "name": "LO-FI",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/lo-fi",
+            "imageURL": "http://radcap.ru/stylegraf/lofi.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Lo-fi (eng. Lo-fi, from low fidelity - low quality) - the direction in music, which is characterized by low quality sound recording. Many low-fi groups record their music on cheap cassette recorders. This is a peculiar form of protest, which is inherent in punk or garage rock."
         },
         {
             "name": "AMBIENT DUB",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.14.76:8002/ambientdub",
+            "imageURL": "http://radcap.ru/stylegraf/ambientdub1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Ambient Dub (born Ambient Dub). The style was invented on the Beyond label for a compilation series under the same name. Since then, this style has the same and generalized concept among performers, critics and listeners, which is defined as any form of rhythm. Ambient Dub is built on ambient oriented rhythms, using textures and Jamaican Dub-style production techniques (for example, reverb, emphasis on bass and percussion, use of heavy effects)."
         },
         {
             "name": "TECHNO",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/techno",
+            "imageURL": "http://radcap.ru/stylegraf/detroittech.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Techno (Eng. Techno) - the style of electronic music, which originated in the mid-1980s in Detroit and its surroundings and subsequently picked up by European producers. It is characterized by artificial sound, an emphasis on mechanical rhythms, multiple repetition of the structural elements of a piece of music. It is one of the main musical genres played on raves."
         },
         {
             "name": "AMBIENT",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/ambient",
+            "imageURL": "http://radcap.ru/stylegraf/ambient2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Ambient (eng. Ambient - ambient) - a genre of electronic music based on the modulation of the sound timbre. Ambient is often characterized by atmospheric, enveloping, unobtrusive, background sound. It was born in the 1970s, thanks to the work of Brian Eno, in the USSR - Mikhail Chekalin; has since formed several varieties. Gained popularity in the early 1990s, thanks to performers, such as The Orb and Aphex Twin."
         },
         {
             "name": "ELECTRO",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/electro",
+            "imageURL": "http://radcap.ru/stylegraf/electro2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Electro (eng. Electro) is a breakbeat direction in electronic dance music created by the Kraftwerk group. Electro has developed its further development through a sub-genre that emerged in the United States at the junction of hip-hop, synth-funk, electropop (Gary Newman), and Kraftwerk's electro-German electronic group itself."
         },
         {
-            "name": "SPACESYNTH",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "SPACESYNTH/SYNTHDANCE/SPACEDANCE",
+            "streamURL": "http://79.120.39.202:8002/spacesynth",
+            "imageURL": "http://radcap.ru/stylegraf/spacesynth.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Spacesynth, synthdance, or spacedance (rus. 'Space' electronics) - instrumental music with high synthesizers, where the focus is on melody instead of rhythm. The style was based on energetic bass tracks, catchy synth riffs created under the influence of science fiction, and futuristic track and album names."
         },
         {
             "name": "NEUROFUNK/TECHNOID/TECHSTEP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/neurofunk",
+            "imageURL": "http://radcap.ru/stylegraf/neurofunk3.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Neurofunk (eng. Neurofunk) is a subgenre of the drum-and-bass genre, the distinguishing feature of which is increased attention to the sharpness of the sound, achieved by sawtooth, so-called. 'Chewing', bass."
         },
         {
             "name": "DRONE AMBIENT",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/droneambient",
+            "imageURL": "http://radcap.ru/stylegraf/droneambient.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The drone ambient arose at the end of the 20th century as a result of ambient borrowing of drone elements. For works in this style are characterized by monotonous low-frequency buzz, raznoritmovye vibrations and resonances, harmonic abstractions, as well as often used recording instruments, reversed backwards, which creates a solid sound landscape (en: soundscape)."
         },
         {
             "name": "ELECTROCLASH",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/electroclash",
+            "imageURL": "http://radcap.ru/stylegraf/electroclash.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Elektroklash (eng. Electroclash, also Tech Pop, Nouveau Disco, The New New Wave, Neo-Electro) - the style of electronic music, which absorbed the elements of new wave, punk and dance electronics. On the one hand, electroklash is a parody of early synthpop and other electronic music of the 80s, which, in principle, is not far from the truth, but on the other, it is a deeper rethinking of electronic music as part of new trends and experiments."
         },
         {
             "name": "PUMPING HOUSE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/pumpinghouse",
+            "imageURL": "http://radcap.ru/stylegraf/pumpinghouse.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Pamping house (eng. Pumping house) or pampin house, sometimes - scouse (eng. Scouse) - a style variation of house music, a characteristic feature of which is the presence of a Bamboo bass, which was synthesized by the Dutch project Klubbheads, on a Yamaha DX7 synthesizer, in compositions this style. The first track of this style is Ultimate Seduction - A Walking Nightmare (Klubbheads GP Mix)."
         },
         {
             "name": "DARK DUBSTEP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/darkdubstep",
+            "imageURL": "http://radcap.ru/stylegraf/darkdubstep4.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Dark dubstep (eng. Dark Dubstep) - the direction of electronic music, the darkest branch of the genre Dubstep. It is characterized by medium or slow tempo, deep bass, minimalism, often oppressive, dark atmosphere. Sometimes the obsession and monotony of the compositions gives them a psychedelic effect."
         },
         {
             "name": "RIDDIM DUBSTEP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/riddimdubstep",
+            "imageURL": "http://radcap.ru/stylegraf/riddimdubstep.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Riddim Dubstep (Eng. Riddim Dubstep) is a subtype of the Dubstep genre. The tracks of this direction are usually distinguished: triplet drums, sawtooth LFOs (low-frequency sound frequency generator), minimalistic sound layers sometimes bordering on primitivism, frequent monotonous repetitions of one musical phrase, rhythmic delays, and a multitude of sound filters. In general, these are rather dark sound pictures, based on a 'swinging', sticky bass unhurried rhythm. "
         },
         {
             "name": "SUOMISAUNDI/FREEFORM PSYTRANCE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.77.11:8002/suomisaundi",
+            "imageURL": "http://radcap.ru/stylegraf/suomisaundi.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Suomisaundi (eng. Suomisaundi, suomistyge, spugedelic trance), also known as suomi-trance, Finnish trance or spugedelic trance is a current in free psychedelic trance, originating in Finland. Suomitrans is produced not only in Finland, but also in Australia and New Zealand, where both Finnish and Australian psy-trance have their own stable audience."
         },
         {
             "name": "NOISE/POWER NOISE/ELECTRONICS",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/noise",
+            "imageURL": "http://radcap.ru/stylegraf/noise.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Noise (from the English. «Noise» - noise) - one of the oldest styles in industrial music; A musical genre in which various sounds are used (most often of artificial and man-made origin) is unpleasant and even painful for human hearing. The attribution of the “noise” genre to music is rather contradictory, since the noise itself is an undesirable phenomenon - unforeseen and accidental sounds, sound recording equipment artifacts that are usually removed from musical recordings."
         },
         {
             "name": "EDM TRAP",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/edmtrap",
+            "imageURL": "http://radcap.ru/stylegraf/edmtrap1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Trap music (English Trap music) is a musical genre rooted in the early 1990s to the South of the USA (South Hip-Hop / Crank). It is characterized by an aggressive textual component and sound, in which the instrumental force is played by the 808th drum machine, or thickly long sub-bass parts, accelerated by two, three or more hi-hats, multi-layered synthesizers and “cinematic” string instruments."
         },
         {
             "name": "DETROIT TECHNO/TECH HOUSE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.120.39.202:8002/detroittech",
+            "imageURL": "http://radcap.ru/stylegraf/detroittech1.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "Detroit techno or Detroit techno (eng. Detroit techno) (Detroit House (eng. Detroit house) - a term used to refer to techno music in the traditions of early (1985-1995) techno recordings of musicians from Detroit, and now necessarily indicates the geographical "origin" of music. A distinctive feature of Detroit techno is the use of analog synthesizers and early drum machines or, more and more often, digital emulation of the sound characteristic of these instruments in creating this music."
         },
         {
             "name": "FOREST PSYTRANCE",
-            "streamURL": "",
-            "imageURL": "",
+            "streamURL": "http://79.111.119.111:8002/forestpsy",
+            "imageURL": "http://radcap.ru/stylegraf/forestpsytrance2.jpg",
             "desc": "CAPRICE",
-            "longDesc": ""
+            "longDesc": "The origin of this musical style began in the mid-1990s, in India. The music that appeared there possessed all the characteristic features of a hot country on the ocean with a rich history and culture, which is also a place of pilgrimage for countless spiritual seekers from around the world."
+        },
+        {
+            "name": "NITZHONOT",
+            "streamURL": "http://79.111.119.111:8002/nitzhonot",
+            "imageURL": "http://radcap.ru/stylegraf/nitzhonot.jpg",
+            "desc": "CAPRICE",
+            "longDesc": "Nitsgonot (English Nitzhonot, the word translates as 'victory') is a style of trance music, a form of psychedelic trance, first appeared in Israel in the late 1990s. It is a transitional form between “goa-trance” and “uplifting-trance”."
         },
         {
             "name": "EURO HOUSE",
