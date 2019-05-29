@@ -6,14 +6,14 @@
             "streamURL": "http://79.111.119.111:8002/paganmetal",
             "imageURL": "http://radcap.ru/stylegraf/pagan.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Pagan metal (English pagan metal - pagan metal) - direction in extreme metal, exploiting various elements of paganism. The Norwegian group In the Woods ... is considered as one of the first peygan-metal groups. Metal Hammer magazine indicates that the song To Enter Pagan from the Dark Romanticism demo of Primordial group contributed to the formation of the genre."
+            "longDesc": "Pagan metal - direction in extreme metal, exploiting various elements of paganism. The Norwegian group In the Woods ... is considered as one of the first peygan-metal groups. Metal Hammer magazine indicates that the song To Enter Pagan from the Dark Romanticism demo of Primordial group contributed to the formation of the genre."
         },
         {
             "name": "NEOCLASSICAL METAL",
             "streamURL": "http://79.111.119.111:8002/neoclassicalmetal",
             "imageURL": "http://radcap.ru/stylegraf/neoclassmet.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Neoclassical metal (eng. Neoclassical metal) - a genre of rock music that emerged in the late 1970s in the UK. It is also a sub-genre of heavy metal, which is strongly influenced by classical music. It requires a very technical performance, consisting of elements borrowed from classical and heavy metal music. Yngwie Malmsteen, the most prominent musician in this subgenre, made a great contribution to the development of style in the 1980s."
+            "longDesc": "Neoclassical metal - a genre of rock music that emerged in the late 1970s in the UK. It is also a sub-genre of heavy metal, which is strongly influenced by classical music. It requires a very technical performance, consisting of elements borrowed from classical and heavy metal music. Yngwie Malmsteen, the most prominent musician in this subgenre, made a great contribution to the development of style in the 1980s."
         },
         {
             "name": "SYMPHONIC BLACK METAL",
@@ -27,42 +27,42 @@
             "streamURL": "http://79.111.14.76:8002/deathcore",
             "imageURL": "http://radcap.ru/stylegraf/deathcore.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Deathcore (English “Deathcore”) - the direction of extreme metal, which is a merger of death metal with metalcore and / or hardcore. In deathcore riffs and blast beats from death metal and breakdowns from hardcore are often used. The speed and severity of the deathcore, as well as its chromatic muffled riffs and discord, have been influenced by modern death metal. Traditional growling and screaming are often used in the deathcore."
+            "longDesc": "Deathcore - the direction of extreme metal, which is a merger of death metal with metalcore and / or hardcore. In deathcore riffs and blast beats from death metal and breakdowns from hardcore are often used. The speed and severity of the deathcore, as well as its chromatic muffled riffs and discord, have been influenced by modern death metal. Traditional growling and screaming are often used in the deathcore."
         },
         {
             "name": "GROOVE METAL",
             "streamURL": "http://79.120.39.202:8002/groovemetal",
             "imageURL": "http://radcap.ru/stylegraf/groovemetal5.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Groove metal (“rhythmic metal”, from the English groove - rhythm), also post-thrash (post-thrash metal) - Extreme subgenre of thrash metal, which took its present form in the 1990s. In addition to thrash metal, groove metal combines such musical genres of the 1980s. like heavy metal, hardcore and death metal."
+            "longDesc": "Groove metal, also post-thrash (post-thrash metal) - Extreme subgenre of thrash metal, which took its present form in the 1990s. In addition to thrash metal, groove metal combines such musical genres of the 1980s. like heavy metal, hardcore and death metal."
         },
         {
             "name": "SYMPHONIC METAL",
             "streamURL": "http://79.120.77.11:8002/symphometal",
             "imageURL": "http://radcap.ru/stylegraf/symphonicmetal4.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Symphonic metal, symphonic metal or symphonic metal (English symphonic metal) - musical style, which combines metal and classical orchestral music. When creating music in this style, female vocals, chorus, symphonic musical instruments or their imitation with the help of a synthesizer are often used, quite often a full-fledged symphony orchestra is used for recording."
+            "longDesc": "Symphonic metal, symphonic metal or symphonic metal - musical style, which combines metal and classical orchestral music. When creating music in this style, female vocals, chorus, symphonic musical instruments or their imitation with the help of a synthesizer are often used, quite often a full-fledged symphony orchestra is used for recording."
         },
         {
             "name": "DEATH DOOM METAL",
             "streamURL": "http://79.120.39.202:8002/deathdoom",
             "imageURL": "http://radcap.ru/stylegraf/deathdoom3.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Death / Doom Metal (born Death Doom Metal) is a metal subgenre that combines the characteristics of death metal and doom metal, and is actually formed by the fusion of these styles. This is an adjoining style that combines such characteristics as reduced tempo, dissonance in sound and an atmosphere of doom as in doom metal and more rigid and fast sound, double barrels, cruelty and growling as in death metal."
+            "longDesc": "Death / Doom Metal is a metal subgenre that combines the characteristics of death metal and doom metal, and is actually formed by the fusion of these styles. This is an adjoining style that combines such characteristics as reduced tempo, dissonance in sound and an atmosphere of doom as in doom metal and more rigid and fast sound, double barrels, cruelty and growling as in death metal."
         },
         {
             "name": "DARK METAL",
             "streamURL": "http://79.111.119.111:8002/darkmetal",
             "imageURL": "http://radcap.ru/stylegraf/darkmetal2.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Dark Metal (also dark, English dark metal, from dark - “dark”) is a musical direction, a metal subtype that first appeared in the late 80s and was formed by 1994. Dark Metal doesn't have a single direction style. The first albums of this direction can be found in Germany, Brazil, Greece, USA, Switzerland and other countries."
+            "longDesc": "Dark Metal is a musical direction, a metal subtype that first appeared in the late 80s and was formed by 1994. Dark Metal doesn't have a single direction style. The first albums of this direction can be found in Germany, Brazil, Greece, USA, Switzerland and other countries."
         },
         {
             "name": "DOOM METAL",
             "streamURL": "http://79.111.14.76:8002/doom",
             "imageURL": "http://radcap.ru/stylegraf/doom2.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Dum metal (from doom metal, from doom - “rock”, “death”, “evil fate”) is an extreme subgenre of metal, with a predominance of slow tempos. Both music and lyrics in this genre are designed to express feelings of despair, fear and doom. The Black Sabbath group, whose songs “Black Sabbath”, “Electric Funeral”, “Cornucopia” became prototypes of doom metal, had a huge influence on the genre."
+            "longDesc": "Dum metal is an extreme subgenre of metal, with a predominance of slow tempos. Both music and lyrics in this genre are designed to express feelings of despair, fear and doom. The Black Sabbath group, whose songs “Black Sabbath”, “Electric Funeral”, “Cornucopia” became prototypes of doom metal, had a huge influence on the genre."
         },
         {
             "name": "POST METAL",
@@ -76,14 +76,14 @@
             "streamURL": "http://79.120.39.202:8002/crust",
             "imageURL": "http://radcap.ru/stylegraf/crust.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Crust punk (eng. Crust punk, sometimes just crust) is a musical direction that arose under the influence of hardcore punk, anarcho punk, extreme metal, which originated in the mid-80s in England. The songs are often filled with gloomy pessimistic lyrics about political and social issues."
+            "longDesc": "Crust punk is a musical direction that arose under the influence of hardcore punk, anarcho punk, extreme metal, which originated in the mid-80s in England. The songs are often filled with gloomy pessimistic lyrics about political and social issues."
         },
         {
             "name": "PROGRESSIVE BLACK/POST-BLACK/BLACKGAZE",
             "streamURL": "http://79.111.14.76:8002/postblack",
             "imageURL": "http://radcap.ru/stylegraf/postblack.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Progressive Black Metal (progressive black metal) - this genre is based on progressive metal and includes complex compositional structures, fancy musical dimensions and intriguing technique of playing musical instruments. The highest level of professionalism of musicians is often combined with lyrical in the form of conceptual epic texts, which result in rather long songs and conceptual albums. In terms of lyrics, it ranges from the usual Black Metal to Viking and Pagan Metal."
+            "longDesc": "Progressive Black Metal - this genre is based on progressive metal and includes complex compositional structures, fancy musical dimensions and intriguing technique of playing musical instruments. The highest level of professionalism of musicians is often combined with lyrical in the form of conceptual epic texts, which result in rather long songs and conceptual albums. In terms of lyrics, it ranges from the usual Black Metal to Viking and Pagan Metal."
         },
         {
             "name": "GOTHIC DOOM METAL",
@@ -104,14 +104,14 @@
             "streamURL": "http://79.111.14.76:8002/nwobhm",
             "imageURL": "http://radcap.ru/stylegraf/nwobhm.jpg",
             "desc": "CAPRICE",
-            "longDesc": "New wave of British heavy metal (English New Wave Of British Heavy Metal, abbreviated NWOBHM, pronounced “nuh-wobbum”) is a musical movement, a phenomenon in the world rock culture of the late 70s - early 80s of the XX century. This phrase primarily refers to the phenomenon on the music scene, which arose at a certain time and in a certain place and, to a lesser extent, some particularly specific style of music."
+            "longDesc": "New wave of British heavy metal is a musical movement, a phenomenon in the world rock culture of the late 70s - early 80s of the XX century. This phrase primarily refers to the phenomenon on the music scene, which arose at a certain time and in a certain place and, to a lesser extent, some particularly specific style of music."
         },
         {
             "name": "NEUE DEUTSCHE HÄRTE",
             "streamURL": "http://79.111.119.111:8002/ndh",
             "imageURL": "http://radcap.ru/stylegraf/ndh.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Neue Deutsche Härte (with it. - “New German gravity”, reads like neue Deutsche Herte), also dance metal (German Tanzmetal) - direction in German metal music, originated in the 1990s, as a result of adding to EBM sound industrial metal elements. Neue Deutsche Härte is characterized by a mix of deep and clean vocals, lyrics mostly in German and the use of electric guitar, bass guitar, drums and synthesizer."
+            "longDesc": "Neue Deutsche Härte, also dance metal (German Tanzmetal) - direction in German metal music, originated in the 1990s, as a result of adding to EBM sound industrial metal elements. Neue Deutsche Härte is characterized by a mix of deep and clean vocals, lyrics mostly in German and the use of electric guitar, bass guitar, drums and synthesizer."
         },
         {
             "name": "SYMPHONIC DEATH METAL",
@@ -125,21 +125,21 @@
             "streamURL": "http://79.111.14.76:8002/hardcorepunk",
             "imageURL": "http://radcap.ru/stylegraf/hardcorepunk.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Hardcore punk (hardcore punk) - a musical genre that appeared in the US and the UK in the late 1970s as a result of separation from punk rock. The sound, compared with the traditional sound of punk rock, has become faster, heavier, the songs have become shorter. In addition, the distinctive feature of hardcore punk is more blurry, syncopated riffs compared to punk rock."
+            "longDesc": "Hardcore punk - a musical genre that appeared in the US and the UK in the late 1970s as a result of separation from punk rock. The sound, compared with the traditional sound of punk rock, has become faster, heavier, the songs have become shorter. In addition, the distinctive feature of hardcore punk is more blurry, syncopated riffs compared to punk rock."
         },
         {
             "name": "BLACK METAL",
             "streamURL": "http://79.120.77.11:8002/blackmetal",
             "imageURL": "http://radcap.ru/stylegraf/blackmetal.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Black metal (English black metal; Russian black metal; norv. Svartmetall), or simply black, is a musical style, one of the extreme metal directions. The genre originated in the 1980s as a branch of thrash metal. The pioneers of black metal are considered to be the English group Venom and the Swedish Bathory. "
+            "longDesc": "Black metal, or simply black, is a musical style, one of the extreme metal directions. The genre originated in the 1980s as a branch of thrash metal. The pioneers of black metal are considered to be the English group Venom and the Swedish Bathory. "
         },
         {
             "name": "DEATH METAL",
             "streamURL": "http://79.120.77.11:8002/deathmetal",
             "imageURL": "http://radcap.ru/stylegraf/deathmetal3.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Death metal (also det; English death metal, from death - “death”) is an extreme subgenre of metal. Having absorbed the speed and complexity of the performance of thrash metal, death metal first separated into a separate subgenre of this trend (it is sometimes called a proto-death), and then into an independent genre in the mid-1980s."
+            "longDesc": "Death metal is an extreme subgenre of metal. Having absorbed the speed and complexity of the performance of thrash metal, death metal first separated into a separate subgenre of this trend (it is sometimes called a proto-death), and then into an independent genre in the mid-1980s."
         },
         {
             "name": "PROGRESSIVE DEATH METAL",
@@ -153,7 +153,7 @@
             "streamURL": "http://79.111.14.76:8002/numetal",
             "imageURL": "http://radcap.ru/stylegraf/numetal8.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Nu metal (eng. Nu metal) (also known as neo metal, new metal) is a subgenre of alternative rock. It is a fusion of heavy metal elements with such styles as grunge, hardcore punk, hip-hop. This genre was one of the most popular in the late 1990s and early 2000s."
+            "longDesc": "Nu metal is a subgenre of alternative rock. It is a fusion of heavy metal elements with such styles as grunge, hardcore punk, hip-hop. This genre was one of the most popular in the late 1990s and early 2000s."
         },
         {
             "name": "RAPCORE",
@@ -174,7 +174,7 @@
             "streamURL": "http://79.120.77.11:8002/powermetal",
             "imageURL": "http://radcap.ru/stylegraf/powermetal.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Power metal (English power metal, from the English. Power chord - a chord of sounds in the fifth and octave) - one of the directions of metal that took shape in the second half of the 80s of the XX century."
+            "longDesc": "Power metal - one of the directions of metal that took shape in the second half of the 80s of the XX century."
         },
         {
             "name": "METALCORE",
@@ -188,35 +188,35 @@
             "streamURL": "http://79.111.119.111:8002/posthardcore",
             "imageURL": "http://radcap.ru/stylegraf/posthardcore.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Posthardcore (from English Post-hardcore) is a sub-genre of hardcore punk that emerged in the mid-to-late 1980s with the advent of releases in the Midwest USA. These include bands on SST Records, and bands from Washington, such as Fugazi (see, for example, releases from the Dischord Records era), as well as slightly different bands, such as Big Black and Jawbox, which are closer to noise-rock roots. post-hardcore."
+            "longDesc": "Posthardcore is a sub-genre of hardcore punk that emerged in the mid-to-late 1980s with the advent of releases in the Midwest USA. These include bands on SST Records, and bands from Washington, such as Fugazi (see, for example, releases from the Dischord Records era), as well as slightly different bands, such as Big Black and Jawbox, which are closer to noise-rock roots. post-hardcore."
         },
         {
             "name": "BLACK/BLACKENED DEATH METAL",
             "streamURL": "http://79.111.14.76:8002/blackdeath",
             "imageURL": "http://radcap.ru/stylegraf/blackdeath2.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Black death metal (English black / death metal, blackened death metal) is a border style that incorporates elements of black metal and death metal. There are guitar tremolo and blast beats, characteristic of black metal, technical playing of percussion instruments and guitars, typical of death metal. Growing is often the vocals. The theme of the texts, as in black, is anti-religious or occult."
+            "longDesc": "Black death metal is a border style that incorporates elements of black metal and death metal. There are guitar tremolo and blast beats, characteristic of black metal, technical playing of percussion instruments and guitars, typical of death metal. Growing is often the vocals. The theme of the texts, as in black, is anti-religious or occult."
         },
         {
             "name": "INSTRUMENTAL METAL",
             "streamURL": "http://79.111.119.111:8002/instrumentalmetal",
             "imageURL": "http://radcap.ru/stylegraf/instrmetal2.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Instrumental metal (English. Instrumental metal) - heavy music, not directly related to any particular metallore. Perhaps the main common feature in such compositions is the lack of vocals and vocals. And terms such as 'Guitar Virtuoso' and 'Neoclassical Metal' should not be unconditionally categorized as instrumental metal in genera."
+            "longDesc": "Instrumental metal - heavy music, not directly related to any particular metallore. Perhaps the main common feature in such compositions is the lack of vocals and vocals. And terms such as 'Guitar Virtuoso' and 'Neoclassical Metal' should not be unconditionally categorized as instrumental metal in genera."
         },
         {
             "name": "GRINDCORE/DEATHGRIND",
             "streamURL": "http://79.120.77.11:8002/grindcore",
             "imageURL": "http://radcap.ru/stylegraf/grindcore.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Grindcore (also known as 'Grind' English. Grindcore) - an extreme direction of rock music, originally resulting from the mixture of crust-punk and thrash-playing. Also a role was played by the influence of metal. The name comes from the word English. grind - “grind” (because of the sound built on atonal riffs, “grinding”, “grinding”, passing from one to another)."
+            "longDesc": "Grindcore - an extreme direction of rock music, originally resulting from the mixture of crust-punk and thrash-playing. Also a role was played by the influence of metal. The name comes from the word English. grind - “grind” (because of the sound built on atonal riffs, “grinding”, “grinding”, passing from one to another)."
         },
         {
             "name": "AVANT-GARDE/EXPERIMENTAL METAL",
             "streamURL": "http://79.111.14.76:8002/avantgardemetal",
             "imageURL": "http://radcap.ru/stylegraf/avantmetal4.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Avant-garde metal (English avant-garde metal) is one of the metal styles that incorporates elements of progressive, symphonic, folklore, industrial, black metal and some other metal subgenres. Differs in a large number of musical experiments with sounds, instruments and structure of songs."
+            "longDesc": "Avant-garde metal is one of the metal styles that incorporates elements of progressive, symphonic, folklore, industrial, black metal and some other metal subgenres. Differs in a large number of musical experiments with sounds, instruments and structure of songs."
         },
         {
             "name": "MELODIC METALCORE",
@@ -237,14 +237,14 @@
             "streamURL": "http://79.111.119.111:8002/melodicheavy",
             "imageURL": "http://radcap.ru/stylegraf/melodicheavy1.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Melodic Heavy Metal (eng. Melodic Heavy Metal) - musical direction, is one of the variations of heavy metal. The name of the music genre speaks for itself. Most of the characteristics are inherited from the traditional heavy metal - medium or accelerated tempo, the central role of the lead guitarist, the lengthy and technical guitar solos. But in general, there is a clear emphasis on melody in the compositions of this style. "
+            "longDesc": "Melodic Heavy Metal - musical direction, is one of the variations of heavy metal. The name of the music genre speaks for itself. Most of the characteristics are inherited from the traditional heavy metal - medium or accelerated tempo, the central role of the lead guitarist, the lengthy and technical guitar solos. But in general, there is a clear emphasis on melody in the compositions of this style. "
         },
         {
             "name": "SYMPHONIC POWER METAL",
             "streamURL": "http://79.120.39.202:8002/symphopower",
             "imageURL": "http://radcap.ru/stylegraf/symphopower1.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Symphonic Power Metal (eng. Symphonic Power Metal) is a subgenre of Power Metal; a successful and beautiful symbiosis of symphonic and power metal, the birth of which is due to the introduction of keyboard bands and synthesizers to the power groups. Synthesizers first performed the function of a background instrument, usually depicting symphonic or folk instruments such as flute, violin, or horn."
+            "longDesc": "Symphonic Power Metal is a subgenre of Power Metal; a successful and beautiful symbiosis of symphonic and power metal, the birth of which is due to the introduction of keyboard bands and synthesizers to the power groups. Synthesizers first performed the function of a background instrument, usually depicting symphonic or folk instruments such as flute, violin, or horn."
         },
         {
             "name": "SYMPHONIC GOTHIC METAL",
@@ -258,42 +258,42 @@
             "streamURL": "http://79.120.77.11:8002/mathcore",
             "imageURL": "http://radcap.ru/stylegraf/mathcore.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Matkor (eng. Mathcore) - rhythmically complex and dissonant style of metalcore. It originates in the work of groups Converge, Botch and The Dillinger Escape Plan. The term matkor is used by analogy with the mat-rock. Both matkor and mat-rock use non-standard beat sizes. Mat-rock bands such as Slint, Don Caballero, Shellac and Drive Like Jehu had some influence on the core, even though he was more close to the metalcore."
+            "longDesc": "Matkor - rhythmically complex and dissonant style of metalcore. It originates in the work of groups Converge, Botch and The Dillinger Escape Plan. The term matkor is used by analogy with the mat-rock. Both matkor and mat-rock use non-standard beat sizes. Mat-rock bands such as Slint, Don Caballero, Shellac and Drive Like Jehu had some influence on the core, even though he was more close to the metalcore."
         },
         {
             "name": "PROGRESSIVE METAL",
             "streamURL": "http://79.120.77.11:8002/progmetal",
             "imageURL": "http://radcap.ru/stylegraf/progmetal1.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Progressive metal (progressive metal or progressive metal (abbr. Prog metal)) is a metal understyle. This genre is based on progressive rock and includes complex compositional structures, fancy musical dimensions and intriguing technique of playing musical instruments. The high level of professionalism of musicians is often combined with lyric in the form of conceptual epic texts, the result of which are rather long songs and conceptual albums."
+            "longDesc": "Progressive metal is a metal understyle. This genre is based on progressive rock and includes complex compositional structures, fancy musical dimensions and intriguing technique of playing musical instruments. The high level of professionalism of musicians is often combined with lyric in the form of conceptual epic texts, the result of which are rather long songs and conceptual albums."
         },
         {
             "name": "HEAVY METAL",
             "streamURL": "http://79.111.14.76:8002/heavymetal",
             "imageURL": "http://radcap.ru/stylegraf/heavymetal.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Heavy metal (English heavy metal - heavy metal) is a genre of rock music, the first and original direction of metal. Usually, this word is called 'classic' metal in the form in which it was created in the 1970s by groups such as Black Sabbath and Judas Priest. Sometimes heavy metal is the name for all metal in general, which is wrong."
+            "longDesc": "Heavy metal is a genre of rock music, the first and original direction of metal. Usually, this word is called 'classic' metal in the form in which it was created in the 1970s by groups such as Black Sabbath and Judas Priest. Sometimes heavy metal is the name for all metal in general, which is wrong."
         },
         {
             "name": "HARDCORE/MELODIC HARDCORE",
             "streamURL": "http://79.111.14.76:8002/hardcoremetal",
             "imageURL": "http://radcap.ru/stylegraf/hardcore.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Hardcore (English Hardcore) is a heavy and tougher punk rock that appeared in the United States and was first sounded in 1977 on the Black Flag debut demo. Besides them, the first hardcore bands were Circle Jerks, Teen Idles, Minor Threat, Jerry's Kids, Bad Brains. The very first hardcore longplay Group Sex was released in 1980 by the band Circle Jerks, founded by the first vocalist of Black Flag, however, mass recognition came to the genre after the release of the album Black Flag Damaged."
+            "longDesc": "Hardcore is a heavy and tougher punk rock that appeared in the United States and was first sounded in 1977 on the Black Flag debut demo. Besides them, the first hardcore bands were Circle Jerks, Teen Idles, Minor Threat, Jerry's Kids, Bad Brains. The very first hardcore longplay Group Sex was released in 1980 by the band Circle Jerks, founded by the first vocalist of Black Flag, however, mass recognition came to the genre after the release of the album Black Flag Damaged."
         },
         {
             "name": "FOLK METAL",
             "streamURL": "http://79.120.39.202:8002/folkmetal",
             "imageURL": "http://radcap.ru/stylegraf/folkmetal1.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Folk metal (English folk metal) - one of the directions of metal, which has incorporated elements of folk music. This includes the widespread use of folk instruments and, to a lesser extent, traditional singing styles (such as the Dutch Heidevolk, the Danes Sylvatica and the Spaniards the Stone of Erech). An early example of folk metal is the 1984 Mignon 'Dangerous Games' of the English group Golgotha, which contains a mixture of NWOBHM and folk. However, the genre did not receive further development, until the appearance of another English group in 1990 - Skyclad."
+            "longDesc": "Folk metal - one of the directions of metal, which has incorporated elements of folk music. This includes the widespread use of folk instruments and, to a lesser extent, traditional singing styles (such as the Dutch Heidevolk, the Danes Sylvatica and the Spaniards the Stone of Erech). An early example of folk metal is the 1984 Mignon 'Dangerous Games' of the English group Golgotha, which contains a mixture of NWOBHM and folk. However, the genre did not receive further development, until the appearance of another English group in 1990 - Skyclad."
         },
         {
             "name": "GOTHIC METAL",
             "streamURL": "http://79.120.77.11:8002/gothicmetal",
             "imageURL": "http://radcap.ru/stylegraf/gothicmetal11.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Gothic metal or gothic metal (English Gothic metal, Goth metal) is a musical genre, a type of metal that combines the weight and aggression of metal with the grim melancholy of gothic rock. Gothic metal originated as a branch from death / doom metal in the early 1990s."
+            "longDesc": "Gothic metal or gothic metal is a musical genre, a type of metal that combines the weight and aggression of metal with the grim melancholy of gothic rock. Gothic metal originated as a branch from death / doom metal in the early 1990s."
         },
         {
             "name": "STONER METAL",
@@ -307,14 +307,14 @@
             "streamURL": "http://79.120.77.11:8002/thrashmetal",
             "imageURL": "http://radcap.ru/stylegraf/thrash.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Thrash metal (from thrash metal, from to thrash - English to beat, thresh) is a musical direction in metal that gave rise to all its extreme varieties. Often the musical term in English is written by THRASH as an abbreviation (Temp - tempo, High Rhythm - high-speed rhythm, Attack - attack, Speed ​​- speed, Horror - horror), the decoding of which characterizes the basis of this musical direction."
+            "longDesc": "Thrash metal is a musical direction in metal that gave rise to all its extreme varieties. Often the musical term in English is written by THRASH as an abbreviation (Temp - tempo, High Rhythm - high-speed rhythm, Attack - attack, Speed ​​- speed, Horror - horror), the decoding of which characterizes the basis of this musical direction."
         },
         {
             "name": "BRUTAL/SLAMMING BRUTAL DEATH",
             "streamURL": "http://79.111.119.111:8002/brutaldeathmetal",
             "imageURL": "http://radcap.ru/stylegraf/brutal1.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Brutal death metal (eng. Brutal death metal) is a term used to describe death metal bands that focus on the speed of the game, the severity of sound effects, the aggressiveness of the vocals, giving the style a tougher and more brutal sound than regular death metal. The style very often echoes the grindcore. Brutal death metal began to develop in the early 1990s, as a subgenre of death metal."
+            "longDesc": "Brutal death metal is a term used to describe death metal bands that focus on the speed of the game, the severity of sound effects, the aggressiveness of the vocals, giving the style a tougher and more brutal sound than regular death metal. The style very often echoes the grindcore. Brutal death metal began to develop in the early 1990s, as a subgenre of death metal."
         },
         {
             "name": "SPEED METAL",
@@ -328,70 +328,70 @@
             "streamURL": "http://79.120.39.202:8002/dronemetal",
             "imageURL": "http://radcap.ru/stylegraf/dronemetal1.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Drone metal (also known as drone doom, as well as power ambient) is a metal music style that combines the slow pace and weight of doom metal with the long sound of drone music. Drone-dum is also often associated with post-metal or art metal."
+            "longDesc": "Drone metal is a metal music style that combines the slow pace and weight of doom metal with the long sound of drone music. Drone-dum is also often associated with post-metal or art metal."
         },
         {
             "name": "EMOCORE/SCREAMO/EMO VIOLENCE",
             "streamURL": "http://79.111.119.111:8002/screamoemo",
             "imageURL": "http://radcap.ru/stylegraf/screamo.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Emo (eng. Emo, short for “emotional”, also transcribed “imo”) is a style of rock music characterized by melodic musicality and expressive lyrics. He appeared in the mid-1980s in Washington, where he was known as 'emotional hardcore punk' or 'Emokor', developed by groups such as Rites of Spring and Embrace. The style was reworked by American punk rockers, its sound changed, mixed with pop punk and indie rock and recorded in the early 1990s by Jawbreaker and Sunny Day Real Estate."
+            "longDesc": "Emo is a style of rock music characterized by melodic musicality and expressive lyrics. He appeared in the mid-1980s in Washington, where he was known as 'emotional hardcore punk' or 'Emokor', developed by groups such as Rites of Spring and Embrace. The style was reworked by American punk rockers, its sound changed, mixed with pop punk and indie rock and recorded in the early 1990s by Jawbreaker and Sunny Day Real Estate."
         },
         {
             "name": "ORIENTAL METAL",
             "streamURL": "http://79.111.119.111:8002/orientalmetal",
             "imageURL": "http://radcap.ru/stylegraf/orientalmetal2.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Oriental Metal (oriental metal) is a folk metal subgenre that originated in the mid-90s in Israel, Singapore and Armenia. The pioneers of the genre were Israeli groups Orphaned Land, Melechesh, Salem, Singaporean Rudra and Armenian Ayas."
+            "longDesc": "Oriental Metal is a folk metal subgenre that originated in the mid-90s in Israel, Singapore and Armenia. The pioneers of the genre were Israeli groups Orphaned Land, Melechesh, Salem, Singaporean Rudra and Armenian Ayas."
         },
         {
             "name": "ELECTRONICORE/TRANCECORE",
             "streamURL": "http://79.111.119.111:8002/electronicore",
             "imageURL": "http://radcap.ru/stylegraf/electronicore.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Elektronikor (also known as syntikor, often called transkor) is a music genre that mixes elements of modern metalcore and / or post-hardcore with electronic music. He gained maximum popularity among metalcore groups in the 2000s with echoes of manifestations in England, USA, Canada, France and Hong Kong."
+            "longDesc": "Elektronikor is a music genre that mixes elements of modern metalcore and / or post-hardcore with electronic music. He gained maximum popularity among metalcore groups in the 2000s with echoes of manifestations in England, USA, Canada, France and Hong Kong."
         },
         {
             "name": "PROGRESSIVE METALCORE",
             "streamURL": "http://79.111.14.76:8002/progmetalcore",
             "imageURL": "http://radcap.ru/stylegraf/progmetalcore.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Progressive Metalcore (eng. Progressive Metalcore) - metal music style. Appeared in the mid-1990s with the work of groups such as Converge, Botch and The Dillinger Escape Plan. The term itself was coined by analogy with progressive rock. Combines such styles as progressive metal and metalcore. Progressive metalcore is characterized by high speed (often abrupt cliffs of a musical phrase), 'slip', technical performance and an unusual rhythm in combination with many progressive elements."
+            "longDesc": "Progressive Metalcore - metal music style. Appeared in the mid-1990s with the work of groups such as Converge, Botch and The Dillinger Escape Plan. The term itself was coined by analogy with progressive rock. Combines such styles as progressive metal and metalcore. Progressive metalcore is characterized by high speed (often abrupt cliffs of a musical phrase), 'slip', technical performance and an unusual rhythm in combination with many progressive elements."
         },
         {
             "name": "EPIC METAL",
             "streamURL": "http://79.111.119.111:8002/epicmetal",
             "imageURL": "http://radcap.ru/stylegraf/epicmetal.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Epic metal, epic metal (eng. Epic Metal) - metal music style covering the themes of mythology, fantasy, epics. Epic metal has no particular musical characteristics. It is not possible to tie an epic metal to any particular style or direction of metal music, since it is not a musical genre, but serves as a generalized term uniting groups according to their lyrics and the concept of compositions."
+            "longDesc": "Epic metal, epic metal - metal music style covering the themes of mythology, fantasy, epics. Epic metal has no particular musical characteristics. It is not possible to tie an epic metal to any particular style or direction of metal music, since it is not a musical genre, but serves as a generalized term uniting groups according to their lyrics and the concept of compositions."
         },
         {
             "name": "MELODIC POWER METAL",
             "streamURL": "http://79.111.119.111:8002/melodicpower",
             "imageURL": "http://radcap.ru/stylegraf/melodicpower.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Melodic Power Metal (born Melodic Power Metal) - musical direction, is one of the types of power metal. Although as a genre, power metal has a great melody in comparison with the same heavy metal, this trend has a pronounced melodic harmony in the usual sense for most listeners."
+            "longDesc": "Melodic Power Metal - musical direction, is one of the types of power metal. Although as a genre, power metal has a great melody in comparison with the same heavy metal, this trend has a pronounced melodic harmony in the usual sense for most listeners."
         },
         {
             "name": "PROGRESSIVE HEAVY METAL",
             "streamURL": "http://79.120.39.202:8002/progheavymetal",
             "imageURL": "http://radcap.ru/stylegraf/progheavymet.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Progressive heavy metal (eng. Progressive Heavy Metal or Progressive Heavy) is a genre of metal music, a subgenre of Heavy Metal. Like any other genre of progressive music, Progressive Heavy has inherent non-standard composition of songs, a departure from typical musical clichés, although the main features of Heavy Metal still dominate."
+            "longDesc": "Progressive heavy metal is a genre of metal music, a subgenre of Heavy Metal. Like any other genre of progressive music, Progressive Heavy has inherent non-standard composition of songs, a departure from typical musical clichés, although the main features of Heavy Metal still dominate."
         },
         {
             "name": "CROSSOVER THRASH",
             "streamURL": "http://79.111.14.76:8002/crossoverthrash",
             "imageURL": "http://radcap.ru/stylegraf/crossoverthrash1.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Crossover Thrash (English Crossover Thrash) - musical style, which is a form of thrash metal or hardcore punk, influenced each other, or their merger. The crossover is one of the directions of punk metal, which includes other very similar styles."
+            "longDesc": "Crossover Thrash - musical style, which is a form of thrash metal or hardcore punk, influenced each other, or their merger. The crossover is one of the directions of punk metal, which includes other very similar styles."
         },
         {
             "name": "FUNERAL DOOM METAL",
             "streamURL": "http://79.120.77.11:8002/funeraldoom",
             "imageURL": "http://radcap.ru/stylegraf/fdm2.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Funer Doom Metal (English funeral doom metal, funeral - funeral, doom - evil fate, fate) - a subgenre of doom metal, but not so much from doom, but from death doom metal. Groups playing in the style of funeral doom took a slow pace from doom / death metal and slowed it down even more; The focus is on an atmosphere of despair, emptiness, grief, unhappiness, deep depression and focused grief."
+            "longDesc": "Funer Doom Metal - a subgenre of doom metal, but not so much from doom, but from death doom metal. Groups playing in the style of funeral doom took a slow pace from doom / death metal and slowed it down even more; The focus is on an atmosphere of despair, emptiness, grief, unhappiness, deep depression and focused grief."
         },
         {
             "name": "DEPRESSIVE BLACK METAL",
@@ -405,14 +405,14 @@
             "streamURL": "http://79.111.14.76:8002/vikingmetal",
             "imageURL": "http://radcap.ru/stylegraf/vikingmetal4.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Viking metal (eng. Viking metal - the style of Viking metal) - a kind of music in the metal genre, based on Scandinavian culture and mythology. Formed in the late 80s - early 90s in Sweden and Norway. The founders of the Viking metal as a separate genre is considered to be the Swedish band Bathory, who previously performed black metal."
+            "longDesc": "Viking metal - a kind of music in the metal genre, based on Scandinavian culture and mythology. Formed in the late 80s - early 90s in Sweden and Norway. The founders of the Viking metal as a separate genre is considered to be the Swedish band Bathory, who previously performed black metal."
         },
         {
             "name": "INDUSTRIAL/CYBER METAL",
             "streamURL": "http://79.120.39.202:8002/industrialmetal",
             "imageURL": "http://radcap.ru/stylegraf/industrialmetal5.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Industrial metal (from the English. Industrial - industry, and metal - metal) - a musical direction in rock music, formed in the late 80s supposedly in the US and UK as a result of the merger of two genres - industrial and heavy metal. The direction under discussion is characterized by the use of heavy metal riffs, an “industrial” synthesizer, a highly distorted guitar sound and distorted vocals."
+            "longDesc": "Industrial metal - a musical direction in rock music, formed in the late 80s supposedly in the US and UK as a result of the merger of two genres - industrial and heavy metal. The direction under discussion is characterized by the use of heavy metal riffs, an “industrial” synthesizer, a highly distorted guitar sound and distorted vocals."
         },
         {
             "name": "ALTERNATIVE METAL",
@@ -426,7 +426,7 @@
             "streamURL": "http://79.120.77.11:8002/melodicdeath",
             "imageURL": "http://radcap.ru/stylegraf/mdm.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Melodic death metal (English melodic death metal, MDM abbreviations are often used, melodies) is a subgenre of death metal characterized by pronounced melodiousness; pretty close to power metal and speed metal. The genre differs from traditional death metal by a wide variety of guitar riffs close to thrash metal and speed metal, the frequency and melody of solo parts and acoustic guitar inserts."
+            "longDesc": "Melodic death metal is a subgenre of death metal characterized by pronounced melodiousness; pretty close to power metal and speed metal. The genre differs from traditional death metal by a wide variety of guitar riffs close to thrash metal and speed metal, the frequency and melody of solo parts and acoustic guitar inserts."
         },
         {
             "name": "TECHNICAL DEATH METAL",
@@ -440,7 +440,7 @@
             "streamURL": "http://79.111.119.111:8002/melodicblackmetal",
             "imageURL": "http://radcap.ru/stylegraf/mbm.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Melodic black metal (eng. Melodic Black Metal) - musical direction, is one of the varieties of black metal. The name of the music genre speaks for itself. Most of the characteristics are inherited from the traditional black metal - screaming, speedy pace of the game, tremolo, blast beat, but there are some differences: the guitar has a much smaller distortion, that is, the characteristic dry “black” “buzz” is absent much less so. As the name suggests, melodic black is more melodic and, therefore, psychologically accessible to the masses of listeners."
+            "longDesc": "Melodic black metal - musical direction, is one of the varieties of black metal. The name of the music genre speaks for itself. Most of the characteristics are inherited from the traditional black metal - screaming, speedy pace of the game, tremolo, blast beat, but there are some differences: the guitar has a much smaller distortion, that is, the characteristic dry “black” “buzz” is absent much less so. As the name suggests, melodic black is more melodic and, therefore, psychologically accessible to the masses of listeners."
         },
         {
             "name": "ATMOSPHERIC/AMBIENT BLACK/DUNGEON SYNTH",
@@ -454,7 +454,7 @@
             "streamURL": "http://79.120.39.202:8002/mathmetal",
             "imageURL": "http://radcap.ru/stylegraf/mathmetal7.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Mat metal (English math metal - mathematical metal) - the direction of metal, characterized by atonality, complex construction of compositions and the use of non-standard musical dimensions. As a rule, rhythmic knocks appear when a strong beat is deliberately transferred to a weak one by cutting or lengthening a phrase along with an increase / decrease in dimension for one of the instruments in any one measure of the desired phrase."
+            "longDesc": "Mat metal - the direction of metal, characterized by atonality, complex construction of compositions and the use of non-standard musical dimensions. As a rule, rhythmic knocks appear when a strong beat is deliberately transferred to a weak one by cutting or lengthening a phrase along with an increase / decrease in dimension for one of the instruments in any one measure of the desired phrase."
         },
         {
             "name": "FEMALE VOCAL IN METAL",
@@ -482,7 +482,7 @@
             "streamURL": "http://79.111.14.76:8002/thrashdeath",
             "imageURL": "http://radcap.ru/stylegraf/thrashdeath1.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Thrash Death Metal (eng. Thrash Death Metal) is a musical sub-genre of heavy music. A kind of blending of directions like Thrash and Death in metal music. Depending on the greater influence of one of the styles, it can be interpreted as Thrash Death or Death Thrash."
+            "longDesc": "Thrash Death Metal is a musical sub-genre of heavy music. A kind of blending of directions like Thrash and Death in metal music. Depending on the greater influence of one of the styles, it can be interpreted as Thrash Death or Death Thrash."
         },
         {
             "name": "THRASH HEAVY METAL",
@@ -496,7 +496,7 @@
             "streamURL": "http://79.120.39.202:8002/thrashblack",
             "imageURL": "http://radcap.ru/stylegraf/thrashblack.jpg",
             "desc": "CAPRICE",
-            "longDesc": "Thrash Black (English thrash black, blackened thrash metal) - metal music style. As the name suggests, there are elements of thrash and black metal in the sound. Their combination forms this style."
+            "longDesc": "Thrash Black - metal music style. As the name suggests, there are elements of thrash and black metal in the sound. Their combination forms this style."
         }
      ]
 }
