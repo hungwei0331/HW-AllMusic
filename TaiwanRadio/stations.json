@@ -1,0 +1,138 @@
+{
+    "station":
+    [
+        {
+            "name": "iCRT",
+            "streamURL": "https://icrt.leanstream.co/ICRTFM-MP3",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/6yLjXYz3er.jpg",
+            "desc": "",
+            "longDesc": "Hsinchu: Online \nKaohsiung: Online \nTaichung: 100.1 FM \nTainan: Online \nTaipei: 100.7 FM"
+        },
+        {
+            "name": "九八新聞台 News98 FM 98.1",
+            "streamURL": "http://cast.news98.com.tw:8000/news98",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/uSWknUaU5K.png",
+            "desc": "",
+            "longDesc": "Taipei: 98.1 FM"
+        },
+        {
+            "name": "飛碟電台 FM 92.1",
+            "streamURL": "",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/du5LQAPcKP.jpg",
+            "desc": "",
+            "longDesc": "Taipei: 92.1 FM"
+        },
+        {
+            "name": "城市廣播網 FM 92.9",
+            "streamURL": "http://fm929.cityfm.tw:8000/929.mp3",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/zRTtcGQW52.jpg",
+            "desc": "",
+            "longDesc": "Kaohsiung: 98.3 FM \nTaichung: 92.9 FM \nTainan: 97.1 FM \nTaipei: 90.1 FM"
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        },
+        {
+            "name": "",
+            "streamURL": "",
+            "imageURL": "",
+            "desc": "",
+            "longDesc": ""
+        }
+    ]
+}
