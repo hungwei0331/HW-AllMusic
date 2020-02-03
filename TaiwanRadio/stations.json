@@ -17,7 +17,7 @@
         },
         {
             "name": "飛碟電台 FM 92.1",
-            "streamURL": "",
+            "streamURL": "http://cast.uforadio.com.tw:8000/ufo",
             "imageURL": "https://static.mytuner.mobi/media/tvos_radios/du5LQAPcKP.jpg",
             "desc": "",
             "longDesc": "Taipei: 92.1 FM"
@@ -30,53 +30,53 @@
             "longDesc": "Kaohsiung: 98.3 FM \nTaichung: 92.9 FM \nTainan: 97.1 FM \nTaipei: 90.1 FM"
         },
         {
-            "name": "",
+            "name": "KISS Radio",
             "streamURL": "",
-            "imageURL": "",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/UDWntK8F96.jpg",
             "desc": "",
-            "longDesc": ""
+            "longDesc": "Kaohsiung: 99.9 FM\n Taichung: 99.7 FM"
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "大千電台 99.1 FM",
+            "streamURL": "http://stream.superfm99-1.com.tw:8554/",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/DrEGuuNx3j.png",
             "desc": "",
-            "longDesc": ""
+            "longDesc": "Chang-hua: Online \nNantou: Online \nTaichung: 99.1 FM"
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "寶島新聲 FM 98.5",
+            "streamURL": "http://stream.superfm99-1.com.tw:8555/",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/eVK6KLfU8n.png",
             "desc": "",
-            "longDesc": ""
+            "longDesc": "Taipei: 98.5 FM"
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "",
-            "longDesc": ""
+            "name": "警察廣播電台",
+            "streamURL": "http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/8arc2eejw8fb.jpeg",
+            "desc": "need to check",
+            "longDesc": "Taipei: Online"
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "城市廣播網 城市廣播 90.1 FM",
+            "streamURL": "http://fm901.cityfm.tw:8000/901.mp3",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/kscxmns2mp6k.jpeg",
             "desc": "",
-            "longDesc": ""
+            "longDesc": "Taipei: 90.1 FM"
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
+            "name": "Asia FM 亞洲電台",
+            "streamURL": "http://asiafm.rastream.com/asiafm-star?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.e&awparams=companionads%3Atrue&playerid=%E4%BA%9E%E6%B4%B2%E5%BB%A3%E6%92%AD%E5%AE%B6%E6%97%8F+Asia+Radio+Family_web",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/UKYkLUAkWF.png",
             "desc": "",
-            "longDesc": ""
+            "longDesc": "Taipei: DAB"
         },
         {
-            "name": "",
-            "streamURL": "",
-            "imageURL": "",
-            "desc": "",
-            "longDesc": ""
+            "name": "IC之音竹科廣播 FM97.5",
+            "streamURL": "https://cdn196.ccdntech.com/live-http/_definst_/vod196_Live/live/media-ujc9gz9ct_9018.aac",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/NMHqVzm8XX.png",
+            "desc": "need to check",
+            "longDesc": "Hsinchu: 97.5 FM \nMiaoli: 97.5 FM \nTaoyuan: 97.5 FM \nTaoyuan City: 97.5 FM"
         },
         {
             "name": "",
