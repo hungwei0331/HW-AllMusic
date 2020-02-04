@@ -52,10 +52,45 @@
         },
         {
             "name": "警察廣播電台",
-            "streamURL": "http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8",
+            "streamURL": "http://stream.pbs.gov.tw:1935/live/mp3:PBS/media_w378924719_557528.aac",
             "imageURL": "https://static.mytuner.mobi/media/tvos_radios/8arc2eejw8fb.jpeg",
             "desc": "need to check",
             "longDesc": "Taipei: Online"
+        },
+        {
+            "name": "警察廣播電台 花蓮",
+            "streamURL": "http://stream.pbs.gov.tw:1935/live/HLS/media_w30028222_3296.aac",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/8arc2eejw8fb.jpeg",
+            "desc": "need to check",
+            "longDesc": "Hsinchu: Online"
+        },
+        {
+            "name": "警察廣播電台 新竹",
+            "streamURL": "http://stream.pbs.gov.tw:1935/live/SCS/media_w2060055495_3268.aac",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/8arc2eejw8fb.jpeg",
+            "desc": "need to check",
+            "longDesc": "Hsinchu: Online"
+        },
+        {
+            "name": "警察廣播電台 台中",
+            "streamURL": "http://stream.pbs.gov.tw:1935/live/TCS/media_w1143618558_3278.aac",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/8arc2eejw8fb.jpeg",
+            "desc": "need to check",
+            "longDesc": "Taichung: Online"
+        },
+        {
+            "name": "警察廣播電台 高雄",
+            "streamURL": "http://stream.pbs.gov.tw:1935/live/KSS/media_w1454372326_3159.aac",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/8arc2eejw8fb.jpeg",
+            "desc": "need to check",
+            "longDesc": "Kaohsiung: Online"
+        },
+        {
+            "name": "警察廣播電台 台南",
+            "streamURL": "http://stream.pbs.gov.tw:1935/live/TNS/media_w720338548_3216.aac",
+            "imageURL": "https://static.mytuner.mobi/media/tvos_radios/8arc2eejw8fb.jpeg",
+            "desc": "need to check",
+            "longDesc": "Tainan: Online"
         },
         {
             "name": "城市廣播網 城市廣播 90.1 FM",
@@ -79,11 +114,11 @@
             "longDesc": "Hsinchu: 97.5 FM \nMiaoli: 97.5 FM \nTaoyuan: 97.5 FM \nTaoyuan City: 97.5 FM"
         },
         {
-            "name": "",
-            "streamURL": "",
+            "name": "Voice of FJU 輔大之聲直播",
+            "streamURL": "http://140.136.115.115:8000/fjuvoice885.mp3",
             "imageURL": "",
             "desc": "",
-            "longDesc": ""
+            "longDesc": "Taipei: 88.5 FM"
         },
         {
             "name": "",
