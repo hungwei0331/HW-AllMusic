@@ -17,16 +17,16 @@
      },
      {
      "name": "Metal Online Radio",
-     "streamURL": "http://158.69.38.194:8734/;stream/1",
+     "streamURL": "http://192.95.46.223:8120/listen/",
      "imageURL": "metal-onlineRadio-3",
      "desc": "Epic Rock Radio",
      "longDesc": ""
      },
      {
-     "name": "Metal Online Radio",
-     "streamURL": "http://158.69.38.194:8766/;stream/1",
+     "name": "Metal Online Radio", 
+     "streamURL": "https://idobihowl.idobi.com/;stream.mp3",
      "imageURL": "metal-onlineRadio-4",
-     "desc": "MetalRock.FM",
+     "desc": "idobi Howl",
      "longDesc": ""
      },
      {
@@ -56,6 +56,6 @@
      "imageURL": "metal-onlineRadio-8",
      "desc": "Pagan Metal Radio",
      "longDesc": ""
-     },
+     }
      ]
 }
