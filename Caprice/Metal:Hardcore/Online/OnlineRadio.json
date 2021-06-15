@@ -28,20 +28,6 @@
      "imageURL": "metal-onlineRadio-5",
      "desc": "Metal Express Radio",
      "longDesc": ""
-     },
-     {
-     "name": "Metal Online Radio",
-     "streamURL": "http://158.69.114.190:8042/;stream/1",
-     "imageURL": "metal-onlineRadio-6",
-     "desc": "Hand of Doom Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Metal Online Radio",
-     "streamURL": "http://188.40.32.140:8061/;stream/1",
-     "imageURL": "metal-onlineRadio-7",
-     "desc": "Metal Devastation Radio",
-     "longDesc": ""
      }
      ]
 }
