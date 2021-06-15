@@ -18,7 +18,7 @@
         },
         {
             "name": "HARDCORE PUNK",
-            "streamURL": "http://79.111.14.76:8002/hardcorepunk",
+            "streamURL": "http://213.141.131.10:8002/hardcorepunk",
             "imageURL": "http://radcap.ru/stylegraf/hardcorepunk.jpg",
             "desc": "RADCAP",
             "longDesc": "Hardcore punk - a musical genre that appeared in the US and the UK in the late 1970s as a result of separation from punk rock. The sound, compared with the traditional sound of punk rock, has become faster, heavier, the songs have become shorter. In addition, the distinctive feature of hardcore punk is more blurry, syncopated riffs compared to punk rock."
@@ -63,7 +63,7 @@
 
         {
             "name": "MATHCORE/CHAOTIC HARDCORE",
-            "streamURL": "http://79.120.77.11:8002/mathcore",
+            "streamURL": "http://79.120.39.202:8002/mathcore",
             "imageURL": "http://radcap.ru/stylegraf/mathcore.jpg",
             "desc": "RADCAP",
             "longDesc": "Matkor - rhythmically complex and dissonant style of metalcore. It originates in the work of groups Converge, Botch and The Dillinger Escape Plan. The term matkor is used by analogy with the mat-rock. Both matkor and mat-rock use non-standard beat sizes. Mat-rock bands such as Slint, Don Caballero, Shellac and Drive Like Jehu had some influence on the core, even though he was more close to the metalcore."
